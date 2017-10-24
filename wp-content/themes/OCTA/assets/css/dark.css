@@ -1,0 +1,344 @@
+﻿body,.page-loader,hr.dev-style4:before,.panel,.main-wrapper,.top-cart .cart-box,.top-search input[type=text],.post-item .lft-tools,.pricing-tbl,.white-bg,.widget h4.widget-title,.divider i,.oc-feature.style3 .feature_title,
+.top-head .dropdown-menu,.testimonials-bg:before,.testimonials-bg:after,.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover,.modal-content,div.dev-style4 i,.sidebar-default .widget h4.widget-head,.top-head.light:not(.affix):not(.boxes):not(.modern),
+.steps-4 .step-icon,.steps-4 .step-line:after,.steps-4 .step-line:after,.vc_tta.vc_general:not(.vc_tta-style-classic).vc_tta-color-white .vc_tta-tab.vc_active>a,.top-srch-forum input[type="text"],#bbpress-forums div.even, #bbpress-forums ul.even{
+	background-color: #333;
+}
+.white,.dark-bg,.darker-bg,.red-bg,.pink-bg,.main-gradient,.team-box.box-1:hover .team-socials a i:before,.progress-bars.xs-line .progress span.sm-badge,
+.header-2 .top-nav > ul > li:hover > a,.header-1 .top-search .search-box input[type=text],.skew-nav > ul > li:hover > a,.skew-nav > ul > li.selected > a,.top-head.transparent.dark:not(.sticky-nav) .top-nav > ul > li:not(.selected) > a,.top-bar.dark,.modal-header.main-bg h4,
+.top-head.transparent.dark .top-search > a,.top-head.transparent.dark .top-cart > a,.top-bar.main-bg a,.top-bar.main-bg .social-list a,.black-bg,.top-bar.semi.dark a,.top-bar.semi.dark .social-list a,a.main-bg:hover,.divider.bg i,
+#footWrapper.footer-bg.dark .widget_it_widget_tweets li.h-entry:after,.main-bg > a:hover,.main-bg a:focus,.sidebar_widgets .widget_it_widget_tweets .slick-prev, .sidebar_widgets .widget_it_widget_tweets .slick-next,.panel-default>.panel-heading{
+	color:#fff
+}
+.btn.main-bg:focus,.white-import,.pagination.style2 > li > a, .pagination.style2 > li > span,.app-btn a.vc_btn3,.oc-feature.style3 .feature_title{
+	color:#fff !important
+}
+.white-border{
+	border:1px #fff solid
+}
+.top-nav li i, .black-bg a:not(.main-color):not(.btn), .black-bg a:not(.main-bg):not(.btn), .black-bg, .gry, .dark-bg a,.darker-bg,.darker-bg a{
+	color:#999
+}
+body,.pricing-tbl.style-3 .price_txt,.pricing-tbl.selected.style-3 .price_txt,.pricing-tbl.style-3:hover .price_txt,.menu-tabs .white-bg a,.menu-tabs .white-bg i {
+	color: #b5b5b5;
+}
+a,a:hover,a:focus,h1, h2, h3, h4, h5, h6,.sticky-nav .top-search > a,.sticky-nav .top-cart > a,.team-box.box-1 .team-socials .social-list li a,.top-nav .mega-menu .nav-tabs a:hover,.black-color {
+	color: #b5b5b5;
+}
+.progress-bars.tiny-line .progress .progress-bar span{
+	color: #999;
+}
+.black {
+	color:#111 !important
+}
+.team-box.box-1,.pricing-tbl.style-3 .price_txt,.page-title,.accordion h4 a,.share-post,.top-srch-forum,.bbp-pagination,#bbpress-forums div.bbp-topic-tags a,#bbpress-forums div.bbp-forum-header, 
+#bbpress-forums div.bbp-topic-header, #bbpress-forums div.bbp-reply-header,#whats-new-form,#buddypress div.item-list-tabs{
+	background-color: #2F2F2F;
+}
+.gry-bg,.gry-bar,.gry-bg .testimonials-bg:before,.gry-bg .testimonials-bg:after,.form-control, select,.input-group-addon,.list-group-item,.pageWrapper.boxed,.sidebar_widgets:after,.recent-posts.style1 .post-content,.top-head.affix,
+.pager.style1 ul.page-numbers li > a.prev, .pager.style1 ul.page-numbers li > a.next,.pager.style1 ul.page-numbers li > span,#bbpress-forums div.odd, #bbpress-forums ul.odd,#bbpress-forums li.bbp-header, #bbpress-forums li.bbp-footer,
+#buddypress form#whats-new-form textarea,#buddypress .standard-form input[type=text]{
+	background-color:#222
+}
+footer.footer-bg.dark .tags li a,#buddypress form#whats-new-form textarea {
+	border-color: #222;
+}
+.header-1,.tabs.gr-bg .nav>li:not(.active)>a,.share-post a i,#buddypress .comment-reply-link:hover, #buddypress .standard-form button:hover, #buddypress a.button:focus, #buddypress a.button:hover, #buddypress div.generic-button a:hover, #buddypress input[type=button]:hover, 
+#buddypress input[type=reset]:hover, #buddypress input[type=submit]:hover, #buddypress ul.button-nav li a:hover, #buddypress ul.button-nav li.current a{
+	background-color: #232323
+}
+.gry-color,.highlight pre code{
+	color:#eee
+}
+.sidebar_widgets,.filter-by.style3 ul,.pricing-tbl.style-2.selected,.sitemap > ul > li > a,.highlight,.well,.list-group-item.disabled, .list-group-item.disabled:focus, .list-group-item.disabled:hover,.pagination>li>a, .pagination>li>span,.pager li>a, .pager li>span,
+.pager .disabled>a, .pager .disabled>a:focus, .pager .disabled>a:hover, .pager .disabled>span,.pagination>.disabled>a, .pagination>.disabled>a:focus, .pagination>.disabled>a:hover, .pagination>.disabled>span, .pagination>.disabled>span:focus, .pagination>.disabled>span:hover,
+.bbpress input.submit, .bbpress button.submit,#buddypress ul.activity-list li:nth-child(2n+1),#buddypress table.forum tr.alt td, #buddypress table.messages-notices tr.alt td, #buddypress table.notifications tr.alt td, #buddypress table.notifications-settings tr.alt td, 
+#buddypress table.profile-fields tr.alt td, #buddypress table.profile-settings tr.alt td, #buddypress table.wp-profile-fields tr.alt td{
+	background-color: #2D2D2D;
+}
+.header-2.boxed:not(.sticky-nav) > .container:not(.top-bar-cont),.header-2.boxed:not(.sticky-nav) .logo,.tabs.gr-bg .nav>li:not(.active)>a,.top-srch-forum input[type="text"]{
+	border: 1px #555 solid;
+}
+.header-2 .top-nav > ul > li,.header-2 .top-cart,.header-2 .top-search,.header-2 .top-nav > ul > li,.header-1.sticky-nav .actsrch{
+	border-left: 1px #555 solid;
+}
+.header-2.center-logo .responsive-nav{
+	border-color:#f0f0f0
+}
+#buddypress div.item-list-tabs ul li.current a, #buddypress div.item-list-tabs ul li.selected a {
+    background-color: #101010;
+    color: #ccc;
+}
+.gry-border-vertical:after{
+	border-left: 1px #555 dashed;
+}
+.team-box.box-1 .team-socials,.breadcrumbs.style2,.breadcrumbs.style3,.list-grid a,.product-img,.add-items i{
+	background-color: #272727;
+}
+.top-head.transparent:not(.header-1),.top-bar.transparent,.sidebar_widgets .widget_menu ul li a,.sidebar_widgets .widget:not(.widget_tag_cloud):not(.widget_it_widget_tweets):not(.widget_it_widget_flickr) li,.top-bar{
+	border-bottom: 1px rgba(0, 0, 0, 0.21) solid;
+}
+.top-head.semi.transparent.dark:not(.header-1),.top-head.transparent.light,.top-head.transparent.dark:not(.header-1){
+	border-bottom:1px rgba(255,255,255,.1) solid
+}
+.widget_menu ul li{
+	border-bottom:1px #555 solid 
+}
+.w-recent-posts li,.widget-categories li,.w-recent-comments li{
+	border-top:1px #fff solid 
+}
+.top-head.transparent .logo{
+	border-right:1px rgba(0,0,0,.1) solid
+}
+.top-head.transparent.right-logo .logo{
+	border-left:1px rgba(0,0,0,.1) solid;
+	border-right:0
+}
+.top-head.semi.transparent.dark .logo,.top-head.transparent.light .logo,.top-head.transparent.dark .logo{
+	border-right:1px rgba(255,255,255,.1) solid
+}
+.light-gry-border,.pricing-tbl,.divider.bordered i,.widget h4.widget-title,.filter-by.style4 ul{
+	border: 1px #555 solid;
+}
+.page-title{
+	border-bottom: 1px #444 solid;
+	border-top: 1px #444 solid;
+}
+.filter-by.style4 ul li a {
+    border-left: 1px #555 solid;
+}
+.accordion.simple h4 a, .accordion.bordered.simple {
+    border: 1px #444 solid !important;
+}
+.bottom-head,#bbpress-forums li.bbp-header, #bbpress-forums li.bbp-footer{
+	border-top: 1px #555 solid;
+}
+.breadcrumbs{
+	border-bottom:1px #555 solid;
+}
+.quicktags-toolbar,#bbpress-forums div.bbp-the-content-wrapper textarea.bbp-the-content {
+    border-color: #555 !important;
+    background: #222 !important;
+}
+.wp-core-ui .button, .wp-core-ui .button-secondary {
+    color: #ccc !important;
+    border-color: #555 !important;
+    background: #454545 !important;
+    -webkit-box-shadow: 0 1px 0 #ccc;
+    box-shadow: 0 1px 0 #ccc;
+}
+.steps-1 i:after,.steps-1 h4:before,.divider.bg i,.divider.centered:before,.divider.centered:after,.divider.lft:before,.divider.rit:before,.add-items i:hover,.panel-default>.panel-heading,.center-v-line:before,
+.pagination>li>a:focus, .pagination>li>a:hover, .pagination>li>span:focus, .pagination>li>span:hover,.steps-1 h4:after,.timeline:before,.divider:before,.double:after,.steps-4 .step-line:before,.top-head.dots-nav.affix .navbar-nav>li > a{
+	background-color: #555;
+}
+.sidebar_widgets .widget_recent_entries li,.sidebar_widgets .widget:not(.widget_tag_cloud):not(.widget_it_widget_tweets):not(.widget_it_widget_flickr) li,#bbpress-forums div.bbp-forum-header, #bbpress-forums div.bbp-topic-header, #bbpress-forums div.bbp-reply-header{
+	border-top: 1px #2b2b2b solid;
+}
+.divider i{
+	color:#d5d5d5;
+}
+.btn-gry-border,.gry-border,.top-bar-search,.breadcrumbs.style2,.breadcrumbs.style3,.filter-by.style5,.shop-item .item-box,.toolsBar select{
+	border: 1px #444 solid;
+}
+.steps-1-container:before,.pricing-tbl ul li{
+	border-top: 1px #555 dashed;
+}
+.dark-one .steps-1-container:before,.dark-one .pricing-tbl ul li{
+	border-top:1px #555 dashed;
+}
+.bot-3-border{
+	border-bottom:3px #ddd solid
+}
+.top-3-border,.tabs.bottom.bordered .tab-content>.tab-pane,.tabs.bottom .nav-tabs{
+	border-top:4px #ddd solid
+}
+.tabs.vertical .tab-content>.tab-pane{
+	border-top:1px #ddd solid
+}
+.separated-cells div div{
+	border-left:1px #ddd dotted
+}
+.clients-grid > div:before,.testimonials-grid > div:before{
+	border-left: 1px #555 dashed;
+}
+.clients-grid > div:after,.testimonials-grid > div:after,.custom-list.style2 li,.center-v-menu ul li {
+	border-bottom: 1px #555 dashed;
+}
+.responsive-utilities td.is-hidden{
+	background-color: transparent !important
+}
+.progress,.table-striped>tbody>tr:nth-of-type(odd),.search-widget .txt-box,.share-post button span.share_num,.share-post button span,.accordion.simple:not(.outlined) h4 a,.vc_tta.vc_tta-style-classic .vc_tta-panel-heading,.sidebar-default .sidebar .sidebar_widgets:after,
+.blog-posts.lg-image .post-item .post-content,.timeline.full .timeline_no_bar:nth-child(even) .timeline_date .inner_date,#buddypress .activity-list li.load-more, #buddypress .activity-list li.load-newest{
+	background-color: #2b2b2b
+}
+.share-post button span.share_num,.share-post button span,.btn-default,.btn-default:hover,.timeline.full .timeline_no_bar:nth-child(even) .timeline_date .inner_date{
+	color:#999;
+}
+hr,.accordion h4 a,.accordion.bordered,.accordion.radius .vc_tta-panel,.filter-by.style3 ul li,.toolsBar,.top-nav.with-borders > ul > li > a,input[type="text"],.form-control, select, textarea,.input-group-addon,blockquote,.social-list a i,.tags li a,
+.well,.panel-default,.panel-default>.panel-heading,hr.dev-style5,.icon-border,.list-group-item,.pagination>li>a, .pagination>li>span,.pager li>a, .pager li>span,.pagination>li>a:focus, .pagination>li>a:hover, .pagination>li>span:focus, .pagination>li>span:hover,
+.pagination>.disabled>a, .pagination>.disabled>a:focus, .pagination>.disabled>a:hover, .pagination>.disabled>span, .pagination>.disabled>span:focus, .pagination>.disabled>span:hover,.table-bordered,.nav-tabs,.tabs.bordered .tab-content>.tab-pane,.magazine .search-widget .txt-box,
+.table-bordered>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th,.social-list a i.gry-bg,.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover,
+.tabs.bottom.bordered .tab-content>.tab-pane, .tabs.bottom .nav-tabs,.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th,.price-ul li:first-child .panel-heading,.magazine .sidebar_widgets,
+.comment-list > li,ul.child-comment,ul.child-comment li,.masonry .post-item, .grid .post-item,.p-1-col .portfolio-item,.modal-footer,.recent-posts-widget li,.socials-widget .widget-content,.socials-widget .social-list li,.custom-list.style2 > li, .custom-list.style2 > a,
+.btn-default,.vc_general.vc_cta3.vc_cta3-color-classic.vc_cta3-style-outline,div.dev-style4,.separated-cells div,.lg-countdown > div,.vc_tta-tabs-list,.vc_tta-tabs:not(.vc_tta-style-classic) .vc_tta-tabs-list,.vc_tta-style-bordered .vc_tta-panels-container,
+.vc_tta-tabs.vc_tta-tabs-position-bottom.vc_tta-style-bordered .vc_tta-panels-container,.mas-inner, .blog-posts.grid .post-item,.oc-feature.style2 .feature_sub,.post-info ul li,.recent-posts.style2 .post-info ul,.custom-list.style3 > li, .custom-list.style3 > a,
+.heading.style2:before, .heading.centered.style2:after,.divider.dotted-sm:before,.divider.dotted-lg:before,.divider.dashed-sm:before,.divider.dashed-lg:before,.steps-1:before,.steps-3,.steps-4 .step-line:after,.clients-grid > div:after, .grid-test > div:after,
+.clients-grid > div:before, .grid-test > div:before,.vc_tta.vc_general:not(.top-border):not(.vc_tta-style-top-border):not(.vc_tta-style-classic) .vc_tta-tab.vc_active>a,.tagcloud a:after, .post-tags a:after,.related-posts ul.list li,
+.top-head.classic.blocks:not(.affix) .main-nav > ul > li > a, .top-head.classic.blocks:not(.affix) .head-btn > a,.top-head.classic.borders:not(.affix) .main-nav > ul > li, .top-head.classic.borders:not(.affix) .head-btn,#buddypress div.activity-meta,
+.top-head.classic.borders:not(.affix) .main-nav > ul > li:first-child,#bbpress-forums ul.bbp-lead-topic, #bbpress-forums ul.bbp-topics, #bbpress-forums ul.bbp-forums, #bbpress-forums ul.bbp-replies, #bbpress-forums ul.bbp-search-results,
+#bbpress-forums li.bbp-body ul.forum, #bbpress-forums li.bbp-body ul.topic,#buddypress div.item-list-tabs,#buddypress ul.activity-list li,#buddypress ul.activity-list li:nth-child(2n+1),.buddypress select,
+#buddypress div.item-list-tabs ul li a, #buddypress div.item-list-tabs ul li span,#buddypress table,#buddypress table *,#buddypress table.profile-fields tr td.label{
+	border-color: #555;
+}
+#buddypress div.item-list-tabs#subnav{
+	border-color: #555 !important;
+}
+#buddypress #reply-title small a span, #buddypress a.bp-primary-action span{
+	border-color: #555;
+	color: #aaa
+}
+.timeline.full .timeline_no_bar:nth-child(even) .timeline_date .inner_date{
+	border: 0
+}
+.vc_tta-tabs.vc_tta-style-bordered.gr-bg.bg-color .vc_tta-tabs-list .vc_tta-tab a,.vc_toggle_title,.app-btn a.vc_btn3{
+	border-color: #555 !important;	
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{
+	border-bottom-color: transparent;
+	color:#ccc;
+}
+.top-head:not(.header-1), .top-bar.transparent, .widget_menu ul li a, .w-recent-posts li, .widget-categories li, .w-recent-comments li, .top-bar{
+	border-bottom-color: transparent;
+}
+.pagination>li>a:focus, .pagination>li>a:hover, .pagination>li>span:focus, .pagination>li>span:hover{
+	color:#fff;
+}
+hr.dev-style1 {
+    background-image: linear-gradient(to right, #333, #999, #333);
+}
+.vc_tta-style-gr-bg .vc_tta-tab:not(.vc_active)>a, .vc_tta-tabs.gr-bg .vc_tta-tab:not(.vc_active)>a{
+	border-color: #333 !important
+}
+.tabs.bottom .nav-tabs>li.active>a, .tabs.bottom .nav-tabs>li.active>a:focus, .tabs.bottom .nav-tabs>li.active>a:hover,.tabs.vertical .nav-tabs>li.active>a, .tabs.vertical .nav-tabs>li.active>a:focus, .tabs.vertical .nav-tabs>li.active>a:hover {
+	border-bottom-color:#ddd
+}
+.post-item .lft-tools li{
+	border-bottom:1px #555 dashed;
+}
+.vc_tta.vc_general.vc_tta-style-bordered.top-border .vc_tta-tab.vc_active>a, .vc_tta.vc_general.vc_tta-style-top-border .vc_tta-tab.vc_active>a{
+	border-left-color: #555;
+	border-right-color: #555
+}
+.testimonials-1 p{
+	border: 1px #555 solid;
+}
+.dash-bord,#items-num,.conf-tabs{
+	border-color: #555 !important;
+}
+.header-1 .top-nav > ul > li > a,.btn-default{
+	color:#ccc;
+}
+.post-item .lft-tools li i,.dark-bg,.dark-bg a{
+	color: #777;
+}
+.team-box.box-1 .team-img{
+	border: 5px #000 solid;
+}
+
+.sidebar_widgets .widget_it_widget_tweets .slick-prev, .sidebar_widgets .widget_it_widget_tweets .slick-next,.black-bg,footer .divider.centered:before,footer .divider.centered:after,code,input[type="text"],
+.vc_tta-style-gr-bg .vc_tta-tab:not(.vc_active)>a, .vc_tta-tabs.gr-bg .vc_tta-tab:not(.vc_active)>a,.breadcrumb,.timeline .post-item .timeline_date span.year,.top-head.classic.blocks:not(.affix) .head-btn > a,
+.top-head:not(.affix) .bottom-head, .top-head:not(.affix) .bottom-head .top-search .search-box,.side-head{
+	background-color: #222;
+}
+.dark-bg,.btn-default,.vc_progress_bar .vc_single_bar,.progress-bars.xs-line .progress span.sm-badge,.testo-4 .oc-block{
+	background-color:#444;
+}
+.darker-bg{
+	background-color:#333;
+}
+.wpb-js-composer .vc_tta-color-black.vc_tta-style-classic .vc_tta-tab.vc_active>a {
+    border-color: #555 !important;
+    background-color: #555 !important;
+    color: #ccc !important;
+}
+.vc_tta-tabs.vc_tta-tabs-position-bottom .vc_tta-tab.vc_active>a{
+	border-bottom: 0 !important
+}
+.wpb-js-composer .vc_tta.vc_general .vc_tta-tabs-container{
+	z-index: 0 !important
+}
+.vc_tta.vc_general.vc_tta-tabs.bg-color .vc_tta-tab.vc_active > a,.vc_tta.vc_general.vc_tta-tabs.vc_tta-style-bg-color .vc_tta-tab.vc_active > a{
+	color: #fff
+}
+.vc_general.vc_tta-tabs.vc_tta-style-gr-bg li:not(.vc_active)>a,vc_general.vc_tta-tabs.gr-bg li:not(.vc_active)>a{
+	background-color: #222 !important
+}
+.vc_general.vc_tta-tabs.vc_tta-style-gr-bg li.vc_active>a,.vc_general.vc_tta-tabs.gr-bg li.vc_active>a{
+	background-color: #333 !important
+}
+.wpb-js-composer .vc_tta-style-classic.vc_tta-tabs .vc_tta-panels,.testo-4 .testi_holder{
+	background-color: #555 !important
+}
+.wpb-js-composer .vc_tta-style-classic.vc_tta-tabs .vc_tta-panels{
+	border-color: #555 !important
+}
+.table-hover>tbody>tr:hover{
+	background-color: #313131
+}
+.black-bg .post-item, .dark-bg .post-item, .abs-icons .icon,.p-month-year,.footer-bottom{
+	background-color: #111
+}
+.pickmeup,.lg-mag-item,.app-btn a.vc_btn3{
+	background-color: #111 !important
+}
+.btn-grey.btn-outlined, .btn-grey.btn-square_outlined{
+	color:#999;
+	border-color: #999
+}
+.conf-tabs{
+	background-color: #333 !important
+}
+.breadcrumbs.style2 a:before{
+	border-color: transparent transparent transparent #555;
+}
+.breadcrumbs.style2 a:after {
+    border-color: transparent transparent transparent #272727;
+}
+
+#css_content pre{
+	color: #ccc
+}
+.lft-tl:before,.timeline.full:before {
+    border-left: 1px rgb(85, 85, 85) dashed;
+}
+.rit-tl:before {
+    border-right: 1px rgb(85, 85, 85) dashed;
+}
+.timeline .post-item .timeline_date:after, .timeline .post-item .timeline_date:before {
+    border-bottom: 2px rgb(85, 85, 85) solid !important;
+}
+#buddypress table.forum thead tr, #buddypress table.messages-notices thead tr, #buddypress table.notifications thead tr, #buddypress table.notifications-settings thead tr, 
+#buddypress table.profile-fields thead tr, #buddypress table.profile-settings thead tr, #buddypress table.wp-profile-fields thead tr{
+	background-color: #222
+}
+#buddypress .dir-search input[type=search], #buddypress .dir-search input[type=text], #buddypress .groups-members-search input[type=search], #buddypress .groups-members-search input[type=text], #buddypress .standard-form input[type=color], 
+#buddypress .standard-form input[type=date], #buddypress .standard-form input[type=datetime-local], #buddypress .standard-form input[type=datetime], #buddypress .standard-form input[type=email], #buddypress .standard-form input[type=month], 
+#buddypress .standard-form input[type=number], #buddypress .standard-form input[type=password], #buddypress .standard-form input[type=range], #buddypress .standard-form input[type=search], #buddypress .standard-form input[type=tel], 
+#buddypress .standard-form input[type=text], #buddypress .standard-form input[type=time], #buddypress .standard-form input[type=url], #buddypress .standard-form input[type=week], #buddypress .standard-form select, #buddypress .standard-form textarea,
+.widget.buddypress div.item-options, .button-nav{
+	border-color: #555;
+	background-color: #222
+}
+#buddypress .comment-reply-link, #buddypress .generic-button a, #buddypress .standard-form button, #buddypress a.button, #buddypress input[type=button], #buddypress input[type=reset], #buddypress input[type=submit], #buddypress ul.button-nav li a, a.bp-title-button{
+	background-color: #444
+}
+#buddypress div.activity-comments form .ac-textarea {
+    background: #252525;
+    border: 1px inset #484848;
+    overflow: hidden;
+}
+.filter-by ul li a span b{
+    background-color: #000 !important;
+}
+.filter-by ul li a span b.popup:after{
+    border-color: #000 transparent transparent transparent !important;
+}

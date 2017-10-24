@@ -1,0 +1,31 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_inputs">
+            <key name="top_left_text" />
+            <key name="top_right_text" />
+            <key name="footer3_top_left_txt" />
+            <key name="footer3_top_right_button_text" />
+            <key name="footer3_top_right_button_link" />
+            <key name="copyrights" />
+            <key name="welcome_bb" />
+            <key name="soon_large_heading2" />
+            <key name="soon_large_heading" />
+            <key name="contact_email_title" />
+            <key name="contact_phone_title" />
+            <key name="contact_address" />
+            <key name="link_1_text" />
+            <key name="link_1_link" />
+            <key name="link_2_text" />
+            <key name="link_2_link" />
+            <key name="link_3_text" />
+            <key name="link_3_link" />
+            <key name="auth_content_after" />
+            <key name="auth_content_before" />
+            <key name="footer_top_txt_socs" />
+            <key name="footer3_top_right_button_link" />
+            <key name="footer3_top_right_button_text" />
+            <key name="footer3_top_left_txt" />
+            <key name="login_welcome_message" />
+        </key>
+    </admin-texts>
+</wpml-config>

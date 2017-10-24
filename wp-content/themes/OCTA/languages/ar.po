@@ -1,0 +1,4345 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: octa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-17 02:30+0200\n"
+"PO-Revision-Date: 2017-02-17 02:36+0200\n"
+"Last-Translator: \n"
+"Language-Team: IT-RAYS <info@it-rays.net>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: it-framework/assets\n"
+
+#: 404.php:32 search.php:63
+msgid "OOOPS!"
+msgstr "للأسف!!"
+
+#: 404.php:32
+msgid "The Page You Are Looking for could not Be Found."
+msgstr "عذرا لم يتم العثور على الصفحة التي تبحث عنها."
+
+#: 404.php:33 404.php:70 404.php:105 search.php:67
+msgid "You can use the form below to search for what you need."
+msgstr "يمكنك استخدام خانة البحث التالية للبحث عما تريد"
+
+#: 404.php:42
+msgid ""
+"You can browse the following links that may help you for what you are "
+"looking for."
+msgstr "يمكنك تصفح الروابط التالية كى تجد ما تبحث عنه."
+
+#: 404.php:51 404.php:64 404.php:99
+msgid "404"
+msgstr "404"
+
+#: 404.php:64 404.php:99
+msgid "Page Not Found"
+msgstr "الصفحة غير موجودة"
+
+#: 404.php:68 404.php:103
+msgid "Sorry.. The Page You Are Looking for could not Be Found."
+msgstr "عذرا لم يتم العثور على الصفحة التي تبحث عنها."
+
+#: archive-download.php:73
+msgid "Starting at: "
+msgstr "ابتداء من الساعة:"
+
+#: archive-download.php:83
+msgid "Add to Cart"
+msgstr "إضافة إلى عربة التسوق"
+
+#: archive-download.php:104
+msgid "Sorry!!! Not Downloads Found"
+msgstr "لا يوجد تنزيلات"
+
+#: archive-download.php:106
+msgid "Seems you are looking for something that is not here."
+msgstr "يبدو أن كنت تبحث عن شيء غير موجود هنا."
+
+#: archive-download.php:109
+msgid "Back To Home Page"
+msgstr "الرجوع للصفحة الرئيسية"
+
+#: bbpress/content-statistics.php:21
+msgid "Our users have posted a total of :"
+msgstr "إجمالي مواضيع الأعضاء:"
+
+#: bbpress/content-statistics.php:21
+msgid "Topics"
+msgstr "المواضيع"
+
+#: bbpress/content-statistics.php:21
+msgid "in"
+msgstr "فى"
+
+#: bbpress/content-statistics.php:21
+msgid "Forums"
+msgstr "المنتديات"
+
+#: bbpress/content-statistics.php:24
+msgid "We have"
+msgstr "لدينا"
+
+#: bbpress/content-statistics.php:24
+msgid "Registered Users"
+msgstr "أعضاء مسجلين"
+
+#: bbpress/content-statistics.php:27
+msgid "Number of total replaies on all forums is"
+msgstr "اجمالى عدد الردود على المواضيع"
+
+#: bbpress/content-statistics.php:27
+msgid "Replies"
+msgstr "الردود"
+
+#: bbpress/content-statistics.php:30
+msgid "Topic Tags"
+msgstr "وسوم المواضيع"
+
+#: bbpress/content-statistics.php:34
+msgid "Empty Topic Tags"
+msgstr "وسوم مواضيع فارغة"
+
+#: bbpress/content-statistics.php:43
+msgid "Hidden Topics"
+msgstr "مواضيع مخفية"
+
+#: bbpress/content-statistics.php:54
+msgid "Hidden Replies"
+msgstr "ردود مخفية"
+
+#: bbpress/form-search.php:14
+msgid "Search for:"
+msgstr "بحث عن:"
+
+#: bbpress/form-search.php:16 searchform.php:6
+msgid "Search"
+msgstr "بحث"
+
+#: comments.php:9
+msgid "Comments"
+msgstr "التعليقات"
+
+#: comments.php:22
+msgid "&larr; Older Comments"
+msgstr "&larr; تعليقات أقدم"
+
+#: comments.php:23
+msgid "Newer Comments &rarr;"
+msgstr "تعليقات أحدث &rarr;"
+
+#: comments.php:28
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: it-framework/classes/it-framework.class.php:180
+msgid "Theme options updated."
+msgstr "ثم تحديث اعدادت القالب"
+
+#: it-framework/classes/it-framework.class.php:198
+msgid "Save Changes"
+msgstr "حفظ التعديلات"
+
+#: it-framework/classes/it-framework.class.php:199
+msgid "Restore Defaults"
+msgstr "إعادة تعيين الإعدادات."
+
+#: it-framework/classes/it-framework.class.php:209
+msgid "Import / Export Options"
+msgstr "استيراد وتصدير الخيارات"
+
+#: it-framework/classes/it-framework.class.php:212
+msgid "Export Theme Options"
+msgstr "تصدير خيارات القالب"
+
+#: it-framework/classes/it-framework.class.php:213
+msgid "The following are the stored theme options for the theme:"
+msgstr "الاتى هو خيارات القالب المخزنة"
+
+#: it-framework/classes/it-framework.class.php:219
+msgid "Download File"
+msgstr "تحميل الملف"
+
+#: it-framework/classes/it-framework.class.php:225
+msgid "Import Theme Options"
+msgstr "استيراد خيارات القالب"
+
+#: it-framework/classes/it-framework.class.php:226
+msgid "Restore a previous theme options."
+msgstr "استعادة خيارات سابقة."
+
+#: it-framework/classes/it-framework.class.php:229
+msgid "Import File"
+msgstr "استيراد ملف"
+
+#: it-framework/classes/it-framework.class.php:342
+#: it-framework/classes/it-framework.class.php:363
+#: it-framework/classes/it-framework.class.php:394
+msgid "You Are Editing in Language."
+msgstr "انتا الان تقوم بالتعديل في اللغة"
+
+#: it-framework/classes/it-framework.class.php:418
+#: it-framework/classes/it-framework.class.php:426
+#: it-framework/classes/it-meta-boxes.class.php:227
+#: it-framework/classes/it-meta-boxes.class.php:232
+msgid "Upload"
+msgstr "رفع"
+
+#: it-framework/classes/it-framework.class.php:419
+#: it-framework/classes/it-meta-boxes.class.php:233
+msgid "Remove Image"
+msgstr "احذف صورة"
+
+#: it-framework/classes/it-framework.class.php:455
+#: it-framework/classes/it-meta-boxes.class.php:253
+msgid "Add Icon"
+msgstr "إضافة أيقونة"
+
+#: it-framework/classes/it-framework.class.php:457
+#: it-framework/classes/it-meta-boxes.class.php:255
+msgid "Remove Icon"
+msgstr "إزالة الايقونة"
+
+#: it-framework/classes/it-framework.class.php:463
+msgid "Add New"
+msgstr "إضافة جديد"
+
+#: it-framework/classes/it-framework.class.php:470
+msgid "Add Module"
+msgstr "إضافة وحدة جديدة"
+
+#: it-framework/classes/it-framework.class.php:477
+msgid "Import Demo Data"
+msgstr "إستيراد المحتوى الجاهز"
+
+#: it-framework/classes/it-framework.class.php:478
+msgid "This can take several minutes, please wait and do not worry!"
+msgstr "هذا يمكن أن يستغرق عدة دقائق، الرجاء الانتظار ولا تقلق!"
+
+#: it-framework/classes/it-framework.class.php:479
+msgid "Download and import file attachments!"
+msgstr "تحميل و استيراد الملفات المرفقه"
+
+#: it-framework/classes/it-meta-boxes.class.php:43
+msgid "Main Layout Style"
+msgstr "نمط التخطيط الرئيسي"
+
+#: it-framework/classes/it-meta-boxes.class.php:45
+msgid "Page Layout Mode"
+msgstr "تخطيط الصفحة"
+
+#: it-framework/classes/it-meta-boxes.class.php:46
+msgid "Select Menu"
+msgstr "اختر قائمة"
+
+#: it-framework/classes/it-meta-boxes.class.php:53
+msgid "Custom Page Settings"
+msgstr "اعدادات خاصة للصفحة"
+
+#: it-framework/classes/it-meta-boxes.class.php:374
+msgid "Choose sidebar:"
+msgstr "اختيار العمود الجانبي"
+
+#: it-framework/classes/it-meta-boxes.class.php:378
+msgid "default"
+msgstr "افتراضى"
+
+#: it-framework/classes/it-meta-boxes.class.php:387
+msgid "Sidebar Style:"
+msgstr "نمط الشريط الجانبي"
+
+#: it-framework/classes/it-meta-boxes.class.php:391
+msgid "Inherit from theme options"
+msgstr "إستخدم من خيارات القالب"
+
+#: it-framework/config/it-framework-config.php:33
+msgid "Choose layout"
+msgstr "اختر التخطيط"
+
+#: it-framework/config/it-framework-config.php:34
+msgid "Boxed or wide layout?"
+msgstr "تخطيط ضيق أو واسع؟"
+
+#: it-framework/config/it-framework-config.php:44
+msgid "Site Width"
+msgstr "عرض الموقع"
+
+#: it-framework/config/it-framework-config.php:45
+msgid "Define the main site content width in px."
+msgstr "تعريف عرض محتوى الموقع الرئيسي في مقصف."
+
+#: it-framework/config/it-framework-config.php:53
+msgid "Sidebar Width"
+msgstr "عرض الشريط الجانبي"
+
+#: it-framework/config/it-framework-config.php:54
+msgid "Define the sidebar content width in %."
+msgstr "عرض الشريط الجانبى ( \"%\")"
+
+#: it-framework/config/it-framework-config.php:62
+#: it-framework/config/it-framework-config.php:2836
+msgid "Content Padding"
+msgstr "هوامش المحتوى"
+
+#: it-framework/config/it-framework-config.php:63
+msgid "Top and Bottom main content padding in px."
+msgstr "هوامش المحتوى من اعلى و اسفل"
+
+#: it-framework/config/it-framework-config.php:72
+msgid "Smooth Scrolling"
+msgstr "تمكين التصفح السلس"
+
+#: it-framework/config/it-framework-config.php:73
+msgid "\"ON\" to enable smooth scrolling in the site."
+msgstr "\"على\" لتمكين التمرير المتجانس في الموقع."
+
+#: it-framework/config/it-framework-config.php:84
+msgid "Body Font color"
+msgstr "لون النص"
+
+#: it-framework/config/it-framework-config.php:89
+msgid "Body Links color"
+msgstr "لون الروابط"
+
+#: it-framework/config/it-framework-config.php:94
+msgid "Body background color"
+msgstr "لون خلفية الصفحة"
+
+#: it-framework/config/it-framework-config.php:99
+#: it-framework/config/it-framework-config.php:2853
+msgid "Background image"
+msgstr "صورة الخلفية"
+
+#: it-framework/config/it-framework-config.php:100
+#: it-framework/config/it-framework-config.php:355
+#: it-framework/config/it-framework-config.php:2854
+msgid "upload image or insert a url."
+msgstr "رفع صورة أو إدخل رابط الصورة."
+
+#: it-framework/config/it-framework-config.php:105
+#: it-framework/config/it-framework-config.php:1093
+#: it-framework/config/it-framework-config.php:1374
+#: it-framework/config/it-framework-config.php:1865
+#: it-framework/config/it-framework-config.php:1943
+#: it-framework/config/it-framework-config.php:2238
+#: it-framework/config/it-framework-config.php:2880
+#: it-framework/config/it-framework-config.php:4592
+#: it-framework/config/it-framework-config.php:4853
+msgid "Background repeat"
+msgstr "تكرار الخلفية"
+
+#: it-framework/config/it-framework-config.php:106
+#: it-framework/config/it-framework-config.php:1094
+#: it-framework/config/it-framework-config.php:1375
+#: it-framework/config/it-framework-config.php:1866
+#: it-framework/config/it-framework-config.php:1944
+#: it-framework/config/it-framework-config.php:2239
+#: it-framework/config/it-framework-config.php:2881
+msgid "How the background image repeats."
+msgstr "أختر كيف سيتم إعادة صورة الخلفية"
+
+#: it-framework/config/it-framework-config.php:122
+#: it-framework/config/it-framework-config.php:1844
+#: it-framework/config/it-framework-config.php:1960
+#: it-framework/config/it-framework-config.php:2255
+#: it-framework/config/it-framework-config.php:2859
+msgid "Background Position"
+msgstr "موضع الخلفية"
+
+#: it-framework/config/it-framework-config.php:143
+#: it-framework/config/it-framework-config.php:1110
+#: it-framework/config/it-framework-config.php:1883
+#: it-framework/config/it-framework-config.php:1981
+#: it-framework/config/it-framework-config.php:2223
+#: it-framework/config/it-framework-config.php:2899
+msgid "Background Size"
+msgstr "حجم الخلفية"
+
+#: it-framework/config/it-framework-config.php:158
+#: it-framework/config/it-framework-config.php:4609
+#: it-framework/config/it-framework-config.php:4866
+msgid "Fixed Background"
+msgstr "خلفية ثابتة"
+
+#: it-framework/config/it-framework-config.php:168
+msgid "Use patterns ?"
+msgstr "استخدام أنماط؟"
+
+#: it-framework/config/it-framework-config.php:171
+msgid "If yes, select the pattern from below:"
+msgstr "إذا كانت الإجابة نعم، حدد النمط من أدناه:"
+
+#: it-framework/config/it-framework-config.php:174
+msgid "Pattern Background Image"
+msgstr "صورة خلفية النقش"
+
+#: it-framework/config/it-framework-config.php:175
+msgid "select pattern background for body."
+msgstr "حدد نمط الخلفية للجسم."
+
+#: it-framework/config/it-framework-config.php:204
+msgid "Pages Animation"
+msgstr "حركة الصفحات"
+
+#: it-framework/config/it-framework-config.php:205
+msgid "\"ON\" to enable Pages Animation transitions."
+msgstr "\"على\" لتمكين \"صفحات الرسوم المتحركة\" والتحولات."
+
+#: it-framework/config/it-framework-config.php:210
+msgid "animation In"
+msgstr "حركة الصفحه في الدخول"
+
+#: it-framework/config/it-framework-config.php:211
+msgid "Select page animation In."
+msgstr "حدد صفحة الرسوم المتحركة في الدخول"
+
+#: it-framework/config/it-framework-config.php:252
+msgid "animation Out"
+msgstr "حركة الصفحه في الخروج"
+
+#: it-framework/config/it-framework-config.php:253
+msgid "Select page animation Out."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:294
+msgid "Animation In Duration"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:295
+msgid "Select the page In animation duration in ms."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:307
+msgid "Animation Out Duration"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:308
+msgid "Select the page Out animation duration in ms."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:321
+msgid "Page Pre-Loader"
+msgstr "تحميل الصفحة"
+
+#: it-framework/config/it-framework-config.php:324
+msgid "Enable / Disable Page preloader."
+msgstr "يمكنك تمكين أو تعطيل محمل الصفحة."
+
+#: it-framework/config/it-framework-config.php:327
+msgid "Pre-loader Style"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:328
+msgid "Select a preloading style that appears before page completely loaded."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:354
+msgid "Loading image"
+msgstr "صورة التحميل"
+
+#: it-framework/config/it-framework-config.php:367
+msgid "Theme Color"
+msgstr "لون القالب"
+
+#: it-framework/config/it-framework-config.php:368
+msgid "Select the main theme skin color from light or dark."
+msgstr "حدد لون البشرة الموقع الرئيسي من الفاتح أو الداكن."
+
+#: it-framework/config/it-framework-config.php:379
+msgid "Choose Skin color"
+msgstr "اختيار لون الموقع"
+
+#: it-framework/config/it-framework-config.php:380
+msgid ""
+"Choose the main color scheme from this color pallet the color suits your "
+"needs."
+msgstr "اختيار نظام الألوان الرئيسي من هذا اللون البليت لون يناسب احتياجاتك."
+
+#: it-framework/config/it-framework-config.php:391
+msgid "Top Bar"
+msgstr "الشريط العلوي"
+
+#: it-framework/config/it-framework-config.php:397
+msgid "Show top bar"
+msgstr "اظهار البار العلوى"
+
+#: it-framework/config/it-framework-config.php:398
+msgid "Show/Hide top bar above header."
+msgstr "إظهار/إخفاء الشريط العلوي فوق الرأس."
+
+#: it-framework/config/it-framework-config.php:406
+msgid "Top Bar Left"
+msgstr "يسار الشريط العلوي"
+
+#: it-framework/config/it-framework-config.php:438
+#: it-framework/config/it-framework-config.php:753
+#: it-framework/config/it-framework-config.php:2671
+msgid "Choose Menu"
+msgstr "اختر القائمة"
+
+#: it-framework/config/it-framework-config.php:449
+#: it-framework/config/it-framework-config.php:496
+#: it-framework/config/it-framework-config.php:568
+#: it-framework/config/it-framework-config.php:578
+#: it-framework/config/it-framework-config.php:614
+#: it-framework/config/it-framework-config.php:637
+#: it-framework/config/it-framework-config.php:660
+#: it-framework/config/it-framework-config.php:673
+#: it-framework/config/it-framework-config.php:696
+#: it-framework/config/it-framework-config.php:764
+#: it-framework/config/it-framework-config.php:811
+#: it-framework/config/it-framework-config.php:883
+#: it-framework/config/it-framework-config.php:893
+#: it-framework/config/it-framework-config.php:929
+#: it-framework/config/it-framework-config.php:952
+#: it-framework/config/it-framework-config.php:975
+#: it-framework/config/it-framework-config.php:988
+#: it-framework/config/it-framework-config.php:1011
+msgid "CSS Class"
+msgstr "فئة الرابط ( css class)"
+
+#: it-framework/config/it-framework-config.php:450
+#: it-framework/config/it-framework-config.php:497
+#: it-framework/config/it-framework-config.php:579
+#: it-framework/config/it-framework-config.php:615
+#: it-framework/config/it-framework-config.php:638
+#: it-framework/config/it-framework-config.php:661
+#: it-framework/config/it-framework-config.php:674
+#: it-framework/config/it-framework-config.php:697
+#: it-framework/config/it-framework-config.php:765
+#: it-framework/config/it-framework-config.php:812
+#: it-framework/config/it-framework-config.php:894
+#: it-framework/config/it-framework-config.php:930
+#: it-framework/config/it-framework-config.php:953
+#: it-framework/config/it-framework-config.php:976
+#: it-framework/config/it-framework-config.php:989
+#: it-framework/config/it-framework-config.php:1012
+msgid ""
+"Add extra class name, then go to : General Settings > Custom CSS & JS and "
+"add the new css code for this class."
+msgstr ""
+"إضافة اسم فئة إضافية، ثم انتقل إلى: الإعدادات العامة > \"شبيبة & CSS مخصصة\" "
+"وإضافة التعليمات البرمجية css الجديدة لهذه الفئة."
+
+#: it-framework/config/it-framework-config.php:461
+#: it-framework/config/it-framework-config.php:508
+#: it-framework/config/it-framework-config.php:590
+#: it-framework/config/it-framework-config.php:626
+#: it-framework/config/it-framework-config.php:649
+#: it-framework/config/it-framework-config.php:685
+#: it-framework/config/it-framework-config.php:708
+#: it-framework/config/it-framework-config.php:776
+#: it-framework/config/it-framework-config.php:823
+#: it-framework/config/it-framework-config.php:905
+#: it-framework/config/it-framework-config.php:941
+#: it-framework/config/it-framework-config.php:964
+#: it-framework/config/it-framework-config.php:1000
+#: it-framework/config/it-framework-config.php:1023
+msgid "Hide ( if user is logged in )"
+msgstr "إخفاء (إذا كان المستخدم بتسجيل الدخول)"
+
+#: it-framework/config/it-framework-config.php:473
+#: it-framework/config/it-framework-config.php:520
+#: it-framework/config/it-framework-config.php:788
+#: it-framework/config/it-framework-config.php:835
+#: it-framework/config/it-framework-config.php:3648
+#: it-framework/includes/menu/menu-custom-fields.php:18
+msgid "Icon"
+msgstr "ايقون"
+
+#: it-framework/config/it-framework-config.php:474
+#: it-framework/config/it-framework-config.php:521
+#: it-framework/config/it-framework-config.php:789
+#: it-framework/config/it-framework-config.php:836
+msgid "choose icon."
+msgstr "اختيار أيقونة"
+
+#: it-framework/config/it-framework-config.php:485
+#: it-framework/config/it-framework-config.php:532
+#: it-framework/config/it-framework-config.php:800
+#: it-framework/config/it-framework-config.php:847
+msgid "Text"
+msgstr "النص"
+
+#: it-framework/config/it-framework-config.php:486
+#: it-framework/config/it-framework-config.php:801
+msgid "Add text to be displayed in the left top bar."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:533
+#: it-framework/config/it-framework-config.php:848
+msgid "Add text to be displayed in the link."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:544
+#: it-framework/config/it-framework-config.php:859
+msgid "Link URL"
+msgstr "رابط التوجيه:"
+
+#: it-framework/config/it-framework-config.php:545
+#: it-framework/config/it-framework-config.php:860
+msgid "Add link url."
+msgstr "إضافة url لارتباط."
+
+#: it-framework/config/it-framework-config.php:554
+#: it-framework/config/it-framework-config.php:869
+msgid "Target"
+msgstr "الهدف"
+
+#: it-framework/config/it-framework-config.php:602
+#: it-framework/config/it-framework-config.php:917
+msgid "Social icons text before"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:603
+#: it-framework/config/it-framework-config.php:918
+msgid "text before Social icons."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:722
+msgid "Top Bar Right"
+msgstr "يمين الشريط العلوي"
+
+#: it-framework/config/it-framework-config.php:1037
+#: it-framework/config/it-framework-config.php:1331
+#: it-framework/config/it-framework-config.php:2831
+#: it-framework/config/it-framework-config.php:3671
+#: it-framework/config/it-framework-config.php:4556
+#: it-framework/config/it-framework-config.php:4836
+msgid "Styling"
+msgstr "تصميم"
+
+#: it-framework/config/it-framework-config.php:1042
+#: it-framework/config/it-framework-config.php:2161
+msgid "Color"
+msgstr "اللون"
+
+#: it-framework/config/it-framework-config.php:1054
+#: it-framework/config/it-framework-config.php:1833
+#: it-framework/config/it-framework-config.php:1932
+msgid "Text color"
+msgstr "لون نص ."
+
+#: it-framework/config/it-framework-config.php:1055
+msgid "Color of the top bar elements"
+msgstr "لون الأعلى شريط العناصر"
+
+#: it-framework/config/it-framework-config.php:1064
+#: it-framework/config/it-framework-config.php:1346
+msgid "Icons color"
+msgstr "لون الايقونات"
+
+#: it-framework/config/it-framework-config.php:1065
+msgid "Color of the top bar Icons"
+msgstr "لون الأعلى شريط الرموز"
+
+#: it-framework/config/it-framework-config.php:1074
+#: it-framework/config/it-framework-config.php:1352
+#: it-framework/config/it-framework-config.php:1819
+#: it-framework/config/it-framework-config.php:1926
+#: it-framework/config/it-framework-config.php:2203
+#: it-framework/config/it-framework-config.php:2350
+msgid "Background color"
+msgstr "لون الخلفية"
+
+#: it-framework/config/it-framework-config.php:1084
+#: it-framework/config/it-framework-config.php:1359
+#: it-framework/config/it-framework-config.php:1839
+#: it-framework/config/it-framework-config.php:1938
+#: it-framework/config/it-framework-config.php:2213
+#: it-framework/config/it-framework-config.php:2678
+#: it-framework/config/it-framework-config.php:4583
+#: it-framework/config/it-framework-config.php:4842
+msgid "Background Image"
+msgstr "صورة الخلفية"
+
+#: it-framework/config/it-framework-config.php:1085
+#: it-framework/config/it-framework-config.php:1360
+msgid "Select or insert image url."
+msgstr "رفع صورة أو إدخل رابط الصورة."
+
+#: it-framework/config/it-framework-config.php:1126
+msgid "Full Width ?"
+msgstr "عرض كامل"
+
+#: it-framework/config/it-framework-config.php:1127
+msgid "Make top bar in full width."
+msgstr "جعل الشريط العلوي في العرض الكامل."
+
+#: it-framework/config/it-framework-config.php:1132
+msgid "Bottom Border ?"
+msgstr "الحد السفلي ؟"
+
+#: it-framework/config/it-framework-config.php:1133
+msgid "Yes to add bottom border for top bar."
+msgstr "نعم لإضافة الحد السفلي للشريط العلوي."
+
+#: it-framework/config/it-framework-config.php:1143
+msgid "Header"
+msgstr "الهيدر"
+
+#: it-framework/config/it-framework-config.php:1148
+msgid "Choose header layout"
+msgstr "اختر نمط تخطيط الهيدر"
+
+#: it-framework/config/it-framework-config.php:1149
+msgid "Choose header layout from the below:"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1164
+msgid "Classic Header Variations"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1165
+msgid "Choose Header styles for classic header."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1181
+msgid "Dark"
+msgstr "داكن"
+
+#: it-framework/config/it-framework-config.php:1187
+msgid "Full Width"
+msgstr "عرض كامل"
+
+#: it-framework/config/it-framework-config.php:1197
+#: it-framework/config/it-framework-config.php:1786
+msgid "Fixed ?"
+msgstr "ثابت"
+
+#: it-framework/config/it-framework-config.php:1207
+msgid "Fixed Header Position"
+msgstr "موقف ثابت رأس"
+
+#: it-framework/config/it-framework-config.php:1221
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:104
+msgid "Top"
+msgstr "أعلى"
+
+#: it-framework/config/it-framework-config.php:1222
+msgid "Distance from top in px."
+msgstr "المسافة من أعلى."
+
+#: it-framework/config/it-framework-config.php:1234
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:105
+msgid "Bottom"
+msgstr "اسفل"
+
+#: it-framework/config/it-framework-config.php:1235
+msgid "Distance from bottom in px."
+msgstr "المسافة من أسفل."
+
+#: it-framework/config/it-framework-config.php:1247
+msgid "Header Padding"
+msgstr "هوامش رأس الصفحة"
+
+#: it-framework/config/it-framework-config.php:1248
+msgid "Top and Bottom Header content padding in px."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1257
+msgid "Show Search box"
+msgstr "اظهار البحث"
+
+#: it-framework/config/it-framework-config.php:1258
+msgid "Show / Hide Search box in header."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1264
+msgid "Search Box Style"
+msgstr "نمط مربع البحث"
+
+#: it-framework/config/it-framework-config.php:1278
+msgid "Show Cart box"
+msgstr "إظهار السلة"
+
+#: it-framework/config/it-framework-config.php:1279
+msgid "Show / Hide Cart box in header."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1289
+msgid "Header Banner image"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1290
+msgid "Add Here Ads image."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1299
+msgid "Banner URL"
+msgstr "رابط الاعلان"
+
+#: it-framework/config/it-framework-config.php:1300
+msgid "Add Here Ads URL."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1309
+msgid "Show Social Icons ?"
+msgstr "عرض أيقونات التواصل الإجتماعي?"
+
+#: it-framework/config/it-framework-config.php:1310
+msgid "Yes to social icons in the side header."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1320
+msgid "Show Copyrights ?"
+msgstr "إظهار حقوق التأليف والنشر؟"
+
+#: it-framework/config/it-framework-config.php:1321
+msgid "Yes to copyrights in the side header."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1336
+msgid "Boxes Background color"
+msgstr "لون خلفية مربعات"
+
+#: it-framework/config/it-framework-config.php:1337
+msgid "Choose a color for boxes background color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1347
+msgid "Choose a color for main menu icons."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1353
+msgid "Choose header background color."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1365
+#: it-framework/config/it-framework-config.php:4619
+#: it-framework/config/it-framework-config.php:4872
+msgid "100% Background Image"
+msgstr "صورة خلفية 100%"
+
+#: it-framework/config/it-framework-config.php:1366
+msgid "Display at 100% width and height."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1391
+msgid "Border color"
+msgstr "لون الحد"
+
+#: it-framework/config/it-framework-config.php:1392
+msgid "Choose header border color for modern Header ONLY."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1401
+msgid "Border Width"
+msgstr "عرض الحدود"
+
+#: it-framework/config/it-framework-config.php:1402
+msgid "Choose header border size in px."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1416
+msgid "Sticky Header"
+msgstr "رأس مثبت"
+
+#: it-framework/config/it-framework-config.php:1422
+msgid "Enable Sticky Header"
+msgstr "تمكين مثبت الرأس"
+
+#: it-framework/config/it-framework-config.php:1427
+#: it-framework/config/it-framework-config.php:1746
+#: it-framework/config/it-framework-config.php:2845
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: it-framework/config/it-framework-config.php:1428
+msgid "Background color for sticky header."
+msgstr "لون الخلفية للرأس الصفحة"
+
+#: it-framework/config/it-framework-config.php:1433
+msgid "Font Color"
+msgstr "لون الخط"
+
+#: it-framework/config/it-framework-config.php:1434
+msgid "Text color for sticky header items."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1440
+msgid "Show on Tablets"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1441
+msgid "Display sticky header in tablets."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1446
+msgid "Show on Mobiles"
+msgstr "تظهر على الهواتف"
+
+#: it-framework/config/it-framework-config.php:1447
+msgid "Display sticky header in mobiles."
+msgstr "عرض الرأس في الهواتف."
+
+#: it-framework/config/it-framework-config.php:1455
+msgid "Logo"
+msgstr "الشعار"
+
+#: it-framework/config/it-framework-config.php:1461
+msgid "Logo Position"
+msgstr "مكان الشعار"
+
+#: it-framework/config/it-framework-config.php:1462
+msgid "Choose logo position."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1477
+msgid "Logo Type"
+msgstr "نوع شعار الموقع"
+
+#: it-framework/config/it-framework-config.php:1488
+msgid "Default Logo"
+msgstr "الشعار الافتراضي"
+
+#: it-framework/config/it-framework-config.php:1489
+#: it-framework/config/it-framework-config.php:1499
+#: it-framework/config/it-framework-config.php:1509
+msgid "Select or insert image url for logo."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1498
+msgid "Sticky Header Logo"
+msgstr "شعار رأس الصفحة"
+
+#: it-framework/config/it-framework-config.php:1508
+msgid "Mobile Logo"
+msgstr "شعار الجوال"
+
+#: it-framework/config/it-framework-config.php:1517
+msgid "Logo Font Family"
+msgstr "نوع خط نص الشعار"
+
+#: it-framework/config/it-framework-config.php:1529
+msgid "Logo Font Size"
+msgstr "حجم خط الشعار"
+
+#: it-framework/config/it-framework-config.php:1530
+#: it-framework/config/it-framework-config.php:1579
+msgid "Enter Font size in px. Ex: 50px"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1540
+msgid "Logo Font Weight"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1541
+msgid "Choose Font weight for Logo"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1568
+msgid "Logo Text Color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1569
+msgid "Color for the Logo text."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1578
+msgid "Mobile Logo Font Size"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1590
+msgid "Tagline"
+msgstr "الوسوم"
+
+#: it-framework/config/it-framework-config.php:1595
+msgid "Tagline Font Family"
+msgstr "عائلة الخط الشعار"
+
+#: it-framework/config/it-framework-config.php:1603
+msgid "Tagline Font Size"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1604
+msgid "Enter Font size in px. Ex: 11px"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1610
+msgid "Tagline Font Weight"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1633
+msgid "Tagline Text Color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1643
+msgid "Menu Options"
+msgstr "خيارات القائمة"
+
+#: it-framework/config/it-framework-config.php:1648
+msgid "Links color"
+msgstr "لون الروابط"
+
+#: it-framework/config/it-framework-config.php:1649
+msgid "Choose a color for header menu links"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1655
+msgid "Menu First Level Icons"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1661
+msgid "Show Submenu Icons"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1667
+msgid "Show Menu Subtitles"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1672
+msgid "Sub Menu Color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1673
+msgid "Select the sub menu color."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1684
+msgid "Submenu Background Color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1693
+msgid "Submenu Font Color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1711
+msgid "Locations"
+msgstr "الاماكن"
+
+#: it-framework/config/it-framework-config.php:1712
+msgid "Add unlimited nav menu locations."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1720
+msgid "Location Name "
+msgstr "اسم مكان جديد"
+
+#: it-framework/config/it-framework-config.php:1730
+msgid "Mobile Menu"
+msgstr "القائمة في الجوال"
+
+#: it-framework/config/it-framework-config.php:1736
+msgid "Mobile Menu Style"
+msgstr "نمط القائمة في الجوال"
+
+#: it-framework/config/it-framework-config.php:1751
+msgid "Text Color"
+msgstr "لون نص ."
+
+#: it-framework/config/it-framework-config.php:1760
+msgid "Footer"
+msgstr "ذيل الصفحة"
+
+#: it-framework/config/it-framework-config.php:1765
+msgid "Footer Style"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1780
+msgid "Light ?"
+msgstr "فاتح"
+
+#: it-framework/config/it-framework-config.php:1781
+msgid "\"ON\" for a light colored footer."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1787
+msgid "\"ON\" for a bottom fixed footer."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1794
+msgid "Widgets Area"
+msgstr "مساحة القطع"
+
+#: it-framework/config/it-framework-config.php:1800
+msgid "Show footer widgets Area"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1801
+msgid "\"ON\" to display footer widgets."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1806
+#: it-framework/config/it-framework-config.php:1913
+msgid "Number of Columns"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1824
+msgid "Top Border color"
+msgstr "لون الحد الأعلى"
+
+#: it-framework/config/it-framework-config.php:1840
+#: it-framework/config/it-framework-config.php:1939
+#: it-framework/config/it-framework-config.php:2007
+#: it-framework/config/it-framework-config.php:2679
+#: it-framework/config/it-framework-config.php:4391
+#: it-framework/config/it-framework-config.php:4584
+#: it-framework/config/it-framework-config.php:4843
+msgid "Select an image or insert a url."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1901
+msgid "Bottom Footer Area"
+msgstr "ناحية تذييل الصفحة السفلي"
+
+#: it-framework/config/it-framework-config.php:1907
+msgid "Show Bottom Footer Area"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1908
+msgid "Show / Hide bottom footer bar."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1927
+msgid "Footer Bottom Bar background color."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1999
+msgid "Minimal Footer"
+msgstr "تذييل الصفحة الحد الأدنى"
+
+#: it-framework/config/it-framework-config.php:2006
+msgid "Minimal Footer Logo"
+msgstr "شعار الحد الأدنى تذييل الصفحة"
+
+#: it-framework/config/it-framework-config.php:2012
+#: it-framework/config/it-framework-config.php:4357
+#: it-framework/config/it-framework-config.php:4715
+msgid "Description"
+msgstr "الوصف"
+
+#: it-framework/config/it-framework-config.php:2013
+#: it-framework/config/it-framework-config.php:4358
+#: it-framework/config/it-framework-config.php:4716
+msgid "Insert here the description text."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2020
+msgid "Address in minimal footer 1"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2021
+msgid "Show / Hide Address in footer."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2027
+msgid "Email in minimal footer 1"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2028
+msgid "Show / Hide Email in minimal footer."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2034
+msgid "Phone in minimal footer 1"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2035
+msgid "Show / Hide Phone in minimal footer."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2041
+msgid "Fax in minimal footer 1"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2042
+msgid "Show / Hide Fax in minimal footer."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2057
+#: it-framework/config/it-framework-config.php:2765
+msgid "Position"
+msgstr "المكان"
+
+#: it-framework/config/it-framework-config.php:2058
+msgid "Choose Title Alignment."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2068
+msgid "Custom Height"
+msgstr "طول مخصص"
+
+#: it-framework/config/it-framework-config.php:2069
+msgid "Insert the height (in px). Ex: 200"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2076
+msgid "Page Title icon"
+msgstr "ايقونة  عنوان الصفحة"
+
+#: it-framework/config/it-framework-config.php:2077
+msgid "Choose icon for page title."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2082
+msgid "Icon color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2083
+msgid "Choose a solid Icon color."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2088
+msgid "Icon Background color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2089
+msgid "Choose a solid Icon Background color."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2095
+msgid "Hide All Page Titles"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2096
+msgid "Show/Hide page title in all pages."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2107
+#: it-framework/config/it-framework-config.php:2371
+#: it-framework/config/it-framework-config.php:2423
+#: it-framework/config/it-framework-config.php:2480
+msgid "Font Family"
+msgstr "عائلة الخط"
+
+#: it-framework/config/it-framework-config.php:2108
+msgid "Choose Font Family for main page title"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2116
+#: it-framework/config/it-framework-config.php:2379
+#: it-framework/config/it-framework-config.php:2431
+msgid "Font Size"
+msgstr "حجم الخط"
+
+#: it-framework/config/it-framework-config.php:2117
+msgid "Choose Font size for main page title"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2123
+msgid "Sub Title Font Size"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2124
+msgid "Choose Font size for page sub title"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2130
+#: it-framework/config/it-framework-config.php:2386
+#: it-framework/config/it-framework-config.php:2438
+#: it-framework/config/it-framework-config.php:2488
+msgid "Font Weight"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2131
+msgid "Choose Font weight for main page title"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2162
+msgid "Choose color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2173
+#: it-framework/config/it-framework-config.php:2356
+msgid "Font color"
+msgstr "لون النص"
+
+#: it-framework/config/it-framework-config.php:2174
+msgid "Choose a custom font color."
+msgstr "اختيار لون خط مخصص."
+
+#: it-framework/config/it-framework-config.php:2183
+msgid "Subtitle color"
+msgstr "لون العنوان الفرعي"
+
+#: it-framework/config/it-framework-config.php:2184
+msgid "Choose a solid Subtitle color."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2193
+msgid "Text Background color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2194
+msgid "Choose a color for the title text background."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2204
+msgid "Choose a solid background color."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2214
+msgid "Choose an image or insert a url."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2276
+msgid "Parallax Background"
+msgstr "صور خلفية Parallax"
+
+#: it-framework/config/it-framework-config.php:2285
+msgid "Overlay ?"
+msgstr "غطاء"
+
+#: it-framework/config/it-framework-config.php:2286
+msgid "Overlay over the background image"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2301
+msgid "Show BreadCrumbs"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2308
+msgid "Breadcrumbs Style"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2320
+msgid "Breadcrumbs Alignment"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2330
+msgid "Breadcrumbs Prefix"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2331
+msgid "Enter the text before the breadcrumbs"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2337
+msgid "Breadcrumbs Suffix"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2338
+msgid "Enter the text after the breadcrumbs"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2344
+msgid "Breadcrumbs on Mobiles"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2351
+msgid "Choose a solid Background color."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2357
+msgid "Choose a solid Font color."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2366
+msgid "Body"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2380
+#: it-framework/config/it-framework-config.php:2432
+msgid "Enter Font size in px. Ex: 14px"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2409
+msgid "Line Height"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2410
+msgid "Line Height for all body elemets."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2418
+msgid "Menu"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2461
+#: it-framework/config/it-framework-config.php:2511
+msgid "Text Style"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2475
+msgid "Headings"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2524
+msgid "Custom Fonts"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2529
+msgid "Upload New Font"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2530
+msgid ""
+"The new font will appear in the Font Family selector (Just refresh the page "
+"after saving)."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2539
+msgid "Font-Family Name"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2546
+msgid "Upload .ttf "
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2552
+msgid "Upload .eot "
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2558
+msgid "Upload .svg "
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2564
+msgid "Upload .woff "
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2570
+msgid "Extra css "
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2581
+msgid "General Settings"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2587
+msgid "Favicon"
+msgstr "ايقونة الصفحة"
+
+#: it-framework/config/it-framework-config.php:2588
+msgid "Upload icon image that represents your website identity (16px x 16px)"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2593
+msgid "Tracking Code"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2594
+msgid "Your Google Analytics Tracking ID."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2598
+msgid "Tags Limit"
+msgstr "حد الوسوم"
+
+#: it-framework/config/it-framework-config.php:2599
+msgid "Number of tags  displayed in widgets."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2607
+msgid "WordPress jpeg Quality"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2616
+msgid "Back To Top Button"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2624
+msgid "Image Placeholders"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2625
+msgid "\"ON\" to show default image for posts that not having featured image."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2631
+msgid "Hide Page Comments"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2632
+msgid "\"ON\" to hide comments on all regular pages."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2638
+#: it-framework/config/it-framework-config.php:2645
+msgid "Install Demo Data"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2639
+msgid "This will overwrite the existing data."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2653
+msgid "404 Error Page"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2658
+msgid "404 Page Layout"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2659
+msgid "Custom layout for the 404 page."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2688
+#: it-framework/config/it-framework-config.php:4629
+msgid "Upload Poster Image"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2689
+#: it-framework/config/it-framework-config.php:4630
+msgid "Select a poster image or insert a url."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2698
+#: it-framework/config/it-framework-config.php:4639
+msgid "Upload .mp4 Video"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2699
+msgid "upload a .mp4 video or type a url."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2708
+#: it-framework/config/it-framework-config.php:4649
+msgid "Upload .webm Video"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2709
+msgid "upload .WEBM video or type a URL."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2718
+#: it-framework/config/it-framework-config.php:4659
+msgid "Upload .ogv Video"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2719
+msgid "upload .OGV video or type a URL."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2731
+msgid "Custom CSS & JS"
+msgstr "كود css و جافا سكربت مخصص"
+
+#: it-framework/config/it-framework-config.php:2737
+msgid "Custom CSS"
+msgstr "كود CSS مخصص"
+
+#: it-framework/config/it-framework-config.php:2738
+msgid "Insert here any custom css code."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2743
+msgid "Custom javascript"
+msgstr "كود جافاسكريبت مخصص"
+
+#: it-framework/config/it-framework-config.php:2744
+msgid "Insert here Custom javascript code."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2753
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: it-framework/config/it-framework-config.php:2759
+msgid "Show Sliding Bar"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2766
+msgid "Choose Sliding bar position."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2780
+msgid "Sliding Bar Content Push"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2781
+msgid "Enable or disable content push when sliding bar opens."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2790
+#: it-framework/config/it-framework-config.php:3896
+#: it-framework/config/it-framework-config.php:4056
+#: it-framework/config/it-framework-config.php:4131
+#: it-framework/config/it-framework-config.php:4187
+msgid "Select Side Bar"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2791
+msgid "Select the side bar for sliing bar content."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2801
+msgid "Number of Widgets Columns"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2802
+msgid "Choose the number of widgets columns in the sliding bar."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2820
+msgid "Sliding Bar On Mobile"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2821
+msgid "Turn on to display the sliding bar on mobiles."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2837
+msgid "Top and Bottom Sliding bar content padding in px."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2846
+msgid "Choose solid color for sliding bar background."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2913
+msgid "Headings Color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2914
+msgid "Choose solid color for the sliding bar heading font."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2921
+msgid "Heading Font Size"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2922
+msgid "Choose font size for the sliding bar heading text in px."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2928
+msgid "Content Font Color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2929
+msgid "Choose solid color for the sliding bar font."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2936
+msgid "Content Font Size"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2937
+msgid "Choose font size for the sliding bar content text in px."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2944
+msgid "Button"
+msgstr "زرار"
+
+#: it-framework/config/it-framework-config.php:2950
+msgid "Button Position"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2951
+msgid "Choose button position."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2963
+msgid "Button Icon"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2964
+msgid "Choose icon for sliding bar button."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2970
+msgid "Toggle Button Icon"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2971
+msgid "Choose toggle icon for sliding bar button."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2977
+msgid "Icon Font Size"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2978
+msgid "Choose font size for the sliding bar button icon in px."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2985
+msgid "Button Shape"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2986
+msgid "Choose button Shape."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3001
+msgid "Button Background Color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3002
+msgid "Choose solid background color for the button ."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3009
+msgid "Button Font Color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3010
+msgid "Controls the font color of the button ."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3018
+msgid "Toggle Icon BG Color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3019
+msgid "Choose solid color for the sliding bar toggle icon background."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3026
+msgid "Toggle Icon Color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3027
+msgid "Choose solid color for the sliding bar toggle icon."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3038
+msgid "Blog listing"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3043
+msgid "Blog Listing Style"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3044
+msgid "Select blog posts listing style."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3058
+msgid "Masonry Columns Per Row"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3059
+msgid "Blog masonry columns per row."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3075
+msgid "Grid Columns Per Row"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3076
+msgid "Select blog grid columns per row."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3092
+#: it-framework/config/it-framework-config.php:3228
+msgid "Featured Image Size"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3093
+msgid "Select Blog Featured Image Size."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3100
+msgid "Max. number of words."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3101
+msgid ""
+"Select Max. number of words to be shown, (Enter -1 to disable this feature)."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3109
+msgid "Blog Sidebar"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3110
+#: it-framework/config/it-framework-config.php:3203
+#: it-framework/config/it-framework-config.php:3499
+#: it-framework/config/it-framework-config.php:3525
+#: it-framework/config/it-framework-config.php:3551
+#: it-framework/config/it-framework-config.php:3577
+#: it-framework/config/it-framework-config.php:3603
+#: it-framework/config/it-framework-config.php:3719
+msgid "Full width or with sidebar ?"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3122
+#: it-framework/config/it-framework-config.php:3907
+msgid "Blog Sidebar Style"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3123
+#: it-framework/config/it-framework-config.php:3216
+#: it-framework/config/it-framework-config.php:3512
+#: it-framework/config/it-framework-config.php:3538
+#: it-framework/config/it-framework-config.php:3564
+#: it-framework/config/it-framework-config.php:3590
+#: it-framework/config/it-framework-config.php:3616
+#: it-framework/config/it-framework-config.php:3908
+#: it-framework/config/it-framework-config.php:3968
+#: it-framework/config/it-framework-config.php:4068
+#: it-framework/config/it-framework-config.php:4143
+#: it-framework/config/it-framework-config.php:4199
+msgid "Select sidebar style"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3135
+msgid "Pager Type"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3136
+msgid "Select your prefered pager style."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3148
+msgid "Pager Style"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3149
+msgid "style for only Numeric Pager."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3167
+msgid "Pager Position"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3168
+msgid "position for only Numeric Pager."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3184
+msgid "Load More Text"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3185
+msgid "Enter Text that will be shown on the load more button."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3197
+msgid "Single post"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3202
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3215
+#: it-framework/config/it-framework-config.php:3967
+#: it-framework/config/it-framework-config.php:4067
+#: it-framework/config/it-framework-config.php:4142
+#: it-framework/config/it-framework-config.php:4198
+msgid "Sidebar Style"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3229
+msgid "Blog Single Featured Image Size."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3237
+#: it-framework/config/it-framework-config.php:3751
+msgid "Show Post Image"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3238
+msgid "Show / Hide Post image."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3244
+msgid "Show Title"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3245
+msgid "Show / Hide Post title."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3251
+msgid "Show Post Icon"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3252
+msgid "Show / Hide Post Icon."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3258
+#: it-framework/config/it-framework-config.php:3758
+msgid "Show Date"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3259
+msgid "Show / Hide Post Date."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3265
+#: it-framework/config/it-framework-config.php:3765
+msgid "Show By Author"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3266
+msgid "Show / Hide Author info."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3272
+#: it-framework/config/it-framework-config.php:3772
+msgid "Show Category"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3273
+msgid "Show / Hide Post Category."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3279
+#: it-framework/config/it-framework-config.php:3779
+msgid "Show Post Content"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3280
+msgid "Show / Hide Post content."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3286
+#: it-framework/config/it-framework-config.php:3786
+msgid "Show Tags"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3287
+msgid "Show / Hide Post Tags."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3293
+msgid "Show Post navigation"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3294
+msgid "Show / Hide Previous/Next post navigation."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3300
+msgid "Show Author Info Box"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3301
+msgid "Show / Hide Author info box."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3307
+msgid "Show Comments"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3308
+msgid "Show / Hide Post Comments."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3314
+msgid "Show Related Posts"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3315
+msgid "Show / Hide Related Posts."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3321
+msgid "Share post"
+msgstr "مشاركة المنشور"
+
+#: it-framework/config/it-framework-config.php:3327
+#: it-framework/config/it-framework-config.php:3806
+msgid "Show Social Sharing options"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3328
+msgid "check this if you need to Show Social Sharing options."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3334
+#: it-framework/config/it-framework-config.php:3813
+msgid "Show Facebook"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3335
+#: it-framework/config/it-framework-config.php:3814
+msgid "Show / Hide facebook share button."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3345
+#: it-framework/config/it-framework-config.php:3824
+msgid "Show Twitter"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3346
+#: it-framework/config/it-framework-config.php:3825
+msgid "Show / Hide Twitter share button."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3356
+#: it-framework/config/it-framework-config.php:3835
+msgid "Show Google Plus"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3357
+#: it-framework/config/it-framework-config.php:3836
+msgid "Show / Hide Google Plus share button."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3367
+#: it-framework/config/it-framework-config.php:3846
+msgid "Show LinkedIn"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3368
+#: it-framework/config/it-framework-config.php:3847
+msgid "Show / Hide LinkedIn share button."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3378
+#: it-framework/config/it-framework-config.php:3857
+msgid "Show Pinterest"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3379
+#: it-framework/config/it-framework-config.php:3858
+msgid "Show / Hide pinterest share button."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3389
+#: it-framework/config/it-framework-config.php:3868
+msgid "Show Xing"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3390
+#: it-framework/config/it-framework-config.php:3869
+msgid "Show / Hide xing share button."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3402
+msgid "Authors Page"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3408
+msgid "Show Author Info"
+msgstr "اظهار معلومات الكاتب"
+
+#: it-framework/config/it-framework-config.php:3409
+msgid "Show / Hide the author info."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3415
+msgid "Show Author Posts"
+msgstr "اظهار تدوينات الكاتب"
+
+#: it-framework/config/it-framework-config.php:3416
+msgid "Show / Hide the author Posts."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3421
+msgid "Author Posts Listing Style"
+msgstr "طريقة عرض تدوينات الكاتب"
+
+#: it-framework/config/it-framework-config.php:3422
+msgid "Select Author Posts listing style."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3441
+msgid "Content Before"
+msgstr "محتوى قبل "
+
+#: it-framework/config/it-framework-config.php:3442
+msgid "Add Text or HTML at the top of auther page."
+msgstr "ضع هنا محتوى يظهر قبل معلومات الكاتب"
+
+#: it-framework/config/it-framework-config.php:3452
+msgid "Content After"
+msgstr "محتوى بعد"
+
+#: it-framework/config/it-framework-config.php:3453
+msgid "Add Text or HTML at the end of auther page."
+msgstr "ضع هنا محتوى يظهر في نهاية صفحة الكاتب"
+
+#: it-framework/config/it-framework-config.php:3472
+msgid "sidebars"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3473
+msgid ""
+"Add unlimited sidebars the go to <a href=\"widgets.php\">Widgets</a> to add "
+"widgets for it."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3482
+msgid "Sidebar Name "
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3493
+msgid "Sidebars"
+msgstr "الشرائط الجانبية"
+
+#: it-framework/config/it-framework-config.php:3498
+msgid "Page Sidebar"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3511
+msgid "Page Sidebar Style"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3524
+msgid "Archive Page Sidebar"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3537
+msgid "Archive Sidebar Style"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3550
+msgid "Tags Page Sidebar"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3563
+msgid "Tags Sidebar Style"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3576
+msgid "Search Sidebar"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3589
+msgid "Search Sidebar Style"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3602
+msgid "Author Page Sidebar"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3615
+msgid "Author Sidebar Style"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3633
+msgid "Add Social Icons"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3639
+msgid "Social Icon"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3640
+msgid "Add unlimited social icons."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3655
+msgid "Title "
+msgstr "العنوان:"
+
+#: it-framework/config/it-framework-config.php:3663
+msgid "Link "
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3677
+msgid "Colored"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3678
+msgid "\"ON\" to add colors to the popular social icons."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3684
+msgid "Add \"nofollow\""
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3685
+msgid "\"ON\" to add \"nofollow\" attribute to all social links."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3691
+msgid "Open in a New Window"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3692
+msgid "\"ON\" to allow social icons to open in a new window."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3701
+msgid "Archive settings"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3706
+msgid "Archive & Tags Style"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3707
+msgid "Choose project archive & tags style."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3718
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+#: it-framework/config/it-framework-config.php:3732
+msgid "Single Project"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3737
+msgid "Project Details Layout"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3738
+msgid "Single project details page layout."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3752
+msgid "Show / Hide Project image."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3759
+msgid "Show / Hide Project Date."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3766
+msgid "Show / Hide Project Author info."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3773
+msgid "Show / Hide Project category."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3780
+msgid "Show / Hide Project content."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3787
+msgid "Show / Hide Project Tags."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3793
+msgid "Show Related Projects"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3794
+msgid "Show / Hide Related Projects."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3800
+msgid "Share Project"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3807
+msgid "Show / Hide Social Sharing options."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3883
+msgid "Products Listing"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3889
+#: it-framework/config/it-framework-config.php:4050
+#: it-framework/config/it-framework-config.php:4125
+#: it-framework/config/it-framework-config.php:4181
+msgid "Show Side Bar"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3892
+msgid "Show / Hide sidebar in shop page."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3897
+msgid "Select the side bar for shop pages."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3924
+#: it-framework/config/it-framework-config.php:3984
+#: it-framework/config/it-framework-config.php:4084
+#: it-framework/config/it-framework-config.php:4159
+#: it-framework/config/it-framework-config.php:4215
+msgid "Sidebar Position"
+msgstr "موقع الشريط الجانبي"
+
+#: it-framework/config/it-framework-config.php:3925
+#: it-framework/config/it-framework-config.php:3985
+#: it-framework/config/it-framework-config.php:4085
+#: it-framework/config/it-framework-config.php:4160
+#: it-framework/config/it-framework-config.php:4216
+msgid "Select the position of the sidebar."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3940
+msgid "Products Columns"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3941
+msgid "Number of columns per row."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3955
+msgid "Single Product"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3962
+msgid "Show Side Bar ?"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3964
+msgid "Show / Hide sidebar in single product page."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4002
+msgid "Related Products"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4008
+msgid "Show Related Products ?"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4011
+msgid "Show / Hide Related Products in single product page."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4014
+#: it-framework/config/it-framework-config.php:4015
+msgid "Related Products Per Page"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4027
+msgid "Related Products Columns"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4028
+msgid "Select the number of columns per row."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4053
+msgid "Show / Hide sidebar in forums page."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4057
+msgid "Select the side bar for bbpress pages."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4101
+msgid "Show Welcome message"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4104
+msgid "Show / Hide welcome message."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4108
+msgid "Welcome Message"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4109
+msgid ""
+"Insert here the welcome message that will appear in the top of the forums."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4128
+msgid "Show / Hide sidebar in buddypress page."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4132
+msgid "Select the side bar for buddypress pages."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4184
+msgid "Show / Hide sidebar in downloads page."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4188
+msgid "Select the side bar for downloads pages."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4231
+msgid "downloads Columns"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4232
+msgid "Select number of columns per row."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4244
+msgid "Downloads Per Page"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4245
+msgid "Select number of downloads per Page."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4255
+msgid "Address Title"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4256
+msgid "Headquarters:"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4262
+msgid "Address"
+msgstr "العنوان"
+
+#: it-framework/config/it-framework-config.php:4263
+msgid "Your contact Address."
+msgstr "عنوان الاتصال الخاصة بك ."
+
+#: it-framework/config/it-framework-config.php:4270
+msgid "Email Title"
+msgstr "عنوان البريد الإلكتروني"
+
+#: it-framework/config/it-framework-config.php:4271
+msgid "Email:"
+msgstr "البريد الإلكتروني:"
+
+#: it-framework/config/it-framework-config.php:4277
+msgid "Email Address"
+msgstr "البريد الالكترونى"
+
+#: it-framework/config/it-framework-config.php:4278
+msgid "Your contact email address."
+msgstr "البريد الالكترونى الخاص بك"
+
+#: it-framework/config/it-framework-config.php:4284
+msgid "Phone Title"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4285
+msgid "Phone:"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4291
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: it-framework/config/it-framework-config.php:4292
+msgid "Your contact phone number."
+msgstr "رقم الهاتف الخاص بك."
+
+#: it-framework/config/it-framework-config.php:4298
+msgid "Fax Title"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4299
+msgid "Fax:"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4305
+msgid "Fax Number"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4306
+msgid "Your contact Fax number."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4314
+msgid "Coming Soon"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4320
+msgid "Enable Coming Soon Mode"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4323
+#: it-framework/config/it-framework-config.php:4681
+msgid "Close site for visitors & Display coming soon message."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4326
+#: it-framework/config/it-framework-config.php:4684
+msgid "Large Heading "
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4327
+#: it-framework/config/it-framework-config.php:4685
+msgid "large heading at the top of the page."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4334
+#: it-framework/config/it-framework-config.php:4692
+msgid "Large Heading color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4335
+#: it-framework/config/it-framework-config.php:4693
+msgid "Choose solid color for Large Heading"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4341
+#: it-framework/config/it-framework-config.php:4699
+msgid "Large Heading 2"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4342
+#: it-framework/config/it-framework-config.php:4700
+msgid "large heading 2 at the top of the page ."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4349
+#: it-framework/config/it-framework-config.php:4707
+msgid "Large Heading 2 color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4350
+#: it-framework/config/it-framework-config.php:4708
+msgid "Choose solid color for Large Heading 2"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4363
+#: it-framework/config/it-framework-config.php:4721
+msgid "Description color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4364
+#: it-framework/config/it-framework-config.php:4722
+msgid "Choose solid color for description"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4371
+msgid "Show Counter"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4374
+msgid "Show / Hide count-down timer."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4377
+msgid "Date"
+msgstr "التاريخ"
+
+#: it-framework/config/it-framework-config.php:4378
+msgid "enter date with format: year/month/day. Ex: 2020/10/20"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4390
+msgid "Digits Background Image"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4400
+msgid "Digits color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4401
+msgid "Choose solid color for digits."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4411
+msgid "Digits Bottom text color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4412
+msgid "Choose solid color for digits bottom text"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4423
+#: it-framework/config/it-framework-config.php:4729
+msgid "Show NewsLetterf Form"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4426
+#: it-framework/config/it-framework-config.php:4732
+msgid "Show / Hide NewsLetterf Form."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4429
+#: it-framework/config/it-framework-config.php:4735
+msgid "NewsLetter Form Shortcode "
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4430
+#: it-framework/config/it-framework-config.php:4736
+msgid "Add the newsletters form shortcode."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4440
+#: it-framework/config/it-framework-config.php:4746
+msgid "Social Icons"
+msgstr "ايقونات المشاركة"
+
+#: it-framework/config/it-framework-config.php:4446
+#: it-framework/config/it-framework-config.php:4752
+msgid "Show Social Links"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4449
+#: it-framework/config/it-framework-config.php:4755
+msgid "Show / Hide the social links."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4452
+#: it-framework/config/it-framework-config.php:4758
+msgid "Facebook"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4453
+#: it-framework/config/it-framework-config.php:4759
+msgid "Facebook link."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4463
+#: it-framework/config/it-framework-config.php:4769
+msgid "Twitter"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4464
+#: it-framework/config/it-framework-config.php:4770
+msgid "Twitter link."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4474
+#: it-framework/config/it-framework-config.php:4780
+msgid "LinkedIn"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4475
+#: it-framework/config/it-framework-config.php:4781
+msgid "LinkedIn link."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4485
+#: it-framework/config/it-framework-config.php:4791
+msgid "Google+"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4486
+#: it-framework/config/it-framework-config.php:4792
+msgid "Google+ link."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4496
+#: it-framework/config/it-framework-config.php:4802
+msgid "Skype"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4497
+#: it-framework/config/it-framework-config.php:4803
+msgid "Skype link."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4507
+#: it-framework/config/it-framework-config.php:4813
+msgid "RSS"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4508
+#: it-framework/config/it-framework-config.php:4814
+msgid "RSS link."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4518
+#: it-framework/config/it-framework-config.php:4824
+msgid "Youtube"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4519
+#: it-framework/config/it-framework-config.php:4825
+msgid "Youtube link."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4529
+msgid "Social icons Background color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4530
+msgid "Choose solid color for background"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4535
+msgid "Social icons Hover Background color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4536
+msgid "Choose solid color for hover background"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4541
+msgid "Social icons color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4542
+msgid "Choose solid color social icons text."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4548
+msgid "Social icons Border color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4549
+msgid "Choose solid color for border"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4561
+msgid "Background Type"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4562
+msgid "Select how the background tpye is."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4572
+#: it-framework/config/it-framework-config.php:4847
+msgid "background color"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4573
+#: it-framework/config/it-framework-config.php:4848
+msgid "Choose solid color for page background"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4593
+#: it-framework/config/it-framework-config.php:4854
+msgid "Select how the background image repeats."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4620
+#: it-framework/config/it-framework-config.php:4873
+msgid "background image 100% width & height."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4640
+msgid "upload a .mp4 video or insert a url."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4650
+msgid "upload .WEBM video or type a video URL."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4660
+msgid "upload .OGV video or type a video URL."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4672
+msgid "Maintenace Mode"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:4678
+msgid "Enable Maintenace Mode"
+msgstr ""
+
+#: it-framework/includes/it-comments.php:37
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك قيد المراجعة من قبل الادارة"
+
+#: it-framework/includes/it-global-functions.php:249
+msgid ""
+"<span aria-hidden=\"true\"><i class=\"fa fa-long-arrow-left main-color\"></"
+"i></span> Older"
+msgstr ""
+
+#: it-framework/includes/it-global-functions.php:250
+msgid ""
+"Newer <span aria-hidden=\"true\"><i class=\"fa fa-long-arrow-right main-color"
+"\"></i></span> "
+msgstr ""
+
+#: it-framework/includes/it-global-functions.php:256
+msgid "No More Posts To Show !!"
+msgstr ""
+
+#: it-framework/includes/it-global-functions.php:632
+msgid "Please go to admin panel > Menus > select the menu and add items to it."
+msgstr ""
+
+#: it-framework/includes/it-global-functions.php:1095
+msgid "Category: "
+msgstr "التصنيف :"
+
+#: it-framework/includes/it-global-functions.php:1118
+msgid "Tags:"
+msgstr "وسوم:"
+
+#: it-framework/includes/it-post-formats.php:57
+msgid "Gallery"
+msgstr "معرض صور"
+
+#: it-framework/includes/it-post-formats.php:61
+msgid "Link"
+msgstr "رابط"
+
+#: it-framework/includes/it-post-formats.php:65
+msgid "Image"
+msgstr "صورة"
+
+#: it-framework/includes/it-post-formats.php:69
+msgid "Quote"
+msgstr "اقتباس"
+
+#: it-framework/includes/it-post-formats.php:73
+#: it-framework/includes/it-post-formats.php:77
+#: it-framework/includes/it-post-formats.php:81
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2645
+msgid "Status"
+msgstr "حالة"
+
+#: it-framework/includes/it-post-formats.php:85
+msgid "Chat"
+msgstr "محادثة"
+
+#: it-framework/includes/it-post-formats.php:89
+msgid "Aside"
+msgstr "مقالة"
+
+#: it-framework/includes/it-post-formats.php:93
+msgid "Standard"
+msgstr "قياسى"
+
+#: it-framework/includes/it-post-formats.php:433
+#: it-framework/includes/it-post-formats.php:474
+msgid "By: "
+msgstr ""
+
+#: it-framework/includes/it-post-formats.php:438
+#: it-framework/includes/it-post-formats.php:483
+#: layout/post-formats/content-download.php:21
+msgid "Categories: "
+msgstr "تصنيفات:"
+
+#: it-framework/includes/it-post-formats.php:446
+msgid "0"
+msgstr ""
+
+#: it-framework/includes/it-post-formats.php:448
+msgid " Comments"
+msgstr ""
+
+#: it-framework/includes/it-post-formats.php:450
+msgid "1"
+msgstr ""
+
+#: it-framework/includes/it-post-formats.php:478
+msgid "On: "
+msgstr ""
+
+#: it-framework/includes/it-post-formats.php:492
+msgid "Leave a comment"
+msgstr "اترك تعليقًا"
+
+#: it-framework/includes/it-post-formats.php:516
+msgid "SlideShow ?"
+msgstr "عرض الشرائح ؟"
+
+#: it-framework/includes/it-post-like.php:159
+msgid "Like"
+msgstr "اعجاب"
+
+#: it-framework/includes/it-post-like.php:159
+msgid "Unlike"
+msgstr "عدم اعجاب"
+
+#: it-framework/includes/menu/menu-custom-fields.php:14
+msgid "Megamenu"
+msgstr ""
+
+#: it-framework/includes/menu/menu-custom-fields.php:15
+msgid "Column"
+msgstr ""
+
+#: it-framework/includes/menu/menu-custom-fields.php:16
+#: it-framework/includes/menu/menu-custom-fields.php:115
+msgid "Add Widget"
+msgstr ""
+
+#: it-framework/includes/menu/menu-custom-fields.php:17
+#: it-framework/includes/menu/menu-custom-fields.php:139
+msgid "Hide Menu Label"
+msgstr ""
+
+#: it-framework/includes/menu/menu-custom-fields.php:19
+#: it-framework/includes/menu/menu-custom-fields.php:85
+msgid "Hint"
+msgstr "تلميح"
+
+#: it-framework/includes/menu/menu-custom-fields.php:20
+#: it-framework/includes/menu/menu-custom-fields.php:95
+msgid "Hint Type"
+msgstr "نوع التلميح"
+
+#: it-framework/includes/menu/menu-custom-fields.php:55
+msgid "Mega Menu"
+msgstr "ميجا منيو"
+
+#: it-framework/includes/menu/menu-custom-fields.php:66
+msgid "Columns"
+msgstr ""
+
+#: it-framework/includes/menu/menu-custom-fields.php:117
+msgid "-- Select Widget Area --"
+msgstr ""
+
+#: it-framework/plugins/bbpress/bbpress.php:8
+msgid "You Are In:"
+msgstr "انت الان في:"
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3250
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2364
+msgid "Required"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2367
+msgid "Recommended"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2383
+msgid "WordPress Repository"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2386
+msgid "External Source"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2389
+msgid "Pre-Packaged"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2406
+msgid "Not Installed"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2410
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2412
+msgid "Active"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2418
+msgid "Required Update not Available"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2421
+msgid "Requires Update"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2424
+msgid "Update recommended"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2581
+msgid "Installed version:"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2589
+msgid "Minimum required version:"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2601
+msgid "Available version:"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2638
+msgid "Plugin"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2639
+msgid "Source"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2640
+msgid "Type"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2644
+msgid "Version"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2694
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2705
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2808
+msgid "Install"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2814
+msgid "Update"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2817
+msgid "Activate"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2848
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2891
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3249
+msgid "Plugin activation failed."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3589
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3598
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3600
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3601
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3606
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3609
+msgid "All installations have been completed."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3611
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: it-framework/plugins/woocommerce/it-woocommerce.php:68
+#: it-framework/plugins/woocommerce/it-woocommerce.php:133
+msgid "Your Shopping cart is empty."
+msgstr "عربة التسوق لديك فارغة."
+
+#: it-framework/plugins/woocommerce/it-woocommerce.php:75
+#: it-framework/plugins/woocommerce/it-woocommerce.php:140
+msgid "Subtotal"
+msgstr "المجموع"
+
+#: it-framework/plugins/woocommerce/it-woocommerce.php:78
+#: it-framework/plugins/woocommerce/it-woocommerce.php:143
+msgid "View Cart"
+msgstr "عربة التسوق"
+
+#: it-framework/plugins/woocommerce/it-woocommerce.php:79
+#: it-framework/plugins/woocommerce/it-woocommerce.php:144
+msgid "Checkout"
+msgstr "اكمال الشراء"
+
+#: it-framework/widgets/it-widget-contact.php:12
+msgid "- Contact info"
+msgstr ""
+
+#: it-framework/widgets/it-widget-contact.php:65
+msgid "Subscribe to our NewsLetters:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-contact.php:88
+#: it-framework/widgets/it-widget-cta.php:46
+#: it-framework/widgets/it-widget-flickr.php:52
+#: it-framework/widgets/it-widget-footer-social-icons.php:39
+#: it-framework/widgets/it-widget-logo-text.php:51
+#: it-framework/widgets/it-widget-recent-posts.php:138
+#: it-framework/widgets/it-widget-shortcode.php:41
+#: it-framework/widgets/it-widget-side-banners.php:42
+#: it-framework/widgets/it-widget-tweets-widget.php:44
+msgid "Title:"
+msgstr "العنوان:"
+
+#: it-framework/widgets/it-widget-contact.php:92
+#: it-framework/widgets/it-widget-footer-social-icons.php:43
+msgid "Footer text:"
+msgstr "محتوى"
+
+#: it-framework/widgets/it-widget-contact.php:96
+msgid "NewsLetters:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-cta.php:50
+#: it-framework/widgets/it-widget-logo-text.php:60
+msgid "Text:"
+msgstr "النص"
+
+#: it-framework/widgets/it-widget-cta.php:54
+msgid "Button Text:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-cta.php:58
+msgid "Button Link:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-flickr.php:13
+msgid "- Flickr Feed"
+msgstr ""
+
+#: it-framework/widgets/it-widget-flickr.php:56
+msgid "Content:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-flickr.php:60
+msgid "Flickr ID:"
+msgstr "رقم المعرف على فلكر"
+
+#: it-framework/widgets/it-widget-flickr.php:64
+msgid "Limit:"
+msgstr "اقصى حد للصور:"
+
+#: it-framework/widgets/it-widget-logo-text.php:55
+msgid "image:"
+msgstr "صوره"
+
+#: it-framework/widgets/it-widget-recent-posts.php:141
+msgid "Number of posts to show:"
+msgstr "عدد المشاركات لعرضها:"
+
+#: it-framework/widgets/it-widget-recent-posts.php:145
+msgid "Display post date?"
+msgstr "اضهر تاريخ المشاركة؟"
+
+#: it-framework/widgets/it-widget-shortcode.php:12
+msgid "- Shortcode Widget"
+msgstr ""
+
+#: it-framework/widgets/it-widget-shortcode.php:45
+msgid "Shortcode:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-side-banners.php:13
+msgid "- Side Banners"
+msgstr ""
+
+#: it-framework/widgets/it-widget-side-banners.php:46
+msgid "Banner Link:"
+msgstr "عنوان البانر:"
+
+#: it-framework/widgets/it-widget-side-banners.php:50
+msgid "Image:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-tweets-widget.php:12
+msgid "- Latest Tweets"
+msgstr ""
+
+#: it-framework/widgets/it-widget-tweets-widget.php:49
+msgid "Twitter User:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-tweets-widget.php:54
+msgid "Visible Tweets:"
+msgstr ""
+
+#: layout/blog/blog-grid.php:49 layout/blog/blog-lg-image.php:56
+#: layout/blog/blog-masonry.php:49 layout/blog/blog-small-image.php:40
+#: layout/blog/blog-timeline.php:58 layout/blog/related-posts.php:20
+msgid "Permanent Link to"
+msgstr "رابط لـ"
+
+#: layout/blog/blog-grid.php:61 layout/blog/blog-lg-image.php:69
+#: layout/blog/blog-masonry.php:61 layout/blog/blog-small-image.php:52
+#: layout/blog/blog-timeline.php:71
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: layout/blog/related-posts.php:16
+msgid "Related Posts"
+msgstr "مواضيع مشابهة"
+
+#: layout/heads/maintenance-header.php:99 layout/heads/soon-header.php:131
+#: layout/others/maintenance.php:96 layout/others/soon.php:127
+msgid "Subscribe to our NewsLetters"
+msgstr ""
+
+#: layout/heads/maintenance-header.php:109 layout/others/maintenance.php:106
+msgid "You Can Find Us Here:"
+msgstr ""
+
+#: layout/heads/top-bar.php:106
+msgid "No menu selected! Please select menu first."
+msgstr ""
+
+#: layout/heads/top-bar.php:154
+msgid "Register"
+msgstr "تسجيل عضوية جديدة"
+
+#: layout/portfolio/portfolio-1.php:47 layout/portfolio/portfolio-2.php:47
+#: layout/portfolio/portfolio-3.php:65
+msgid "Project"
+msgstr "مشروع"
+
+#: layout/portfolio/portfolio-1.php:47 layout/portfolio/portfolio-2.php:47
+#: layout/portfolio/portfolio-3.php:65
+msgid "Info"
+msgstr "معلومات"
+
+#: layout/portfolio/portfolio-1.php:55 layout/portfolio/portfolio-2.php:55
+#: layout/portfolio/portfolio-3.php:72
+msgid "Added By:"
+msgstr "بواسطة:"
+
+#: layout/portfolio/portfolio-1.php:60 layout/portfolio/portfolio-2.php:61
+#: layout/portfolio/portfolio-3.php:77
+msgid "Date Added:"
+msgstr "تاريخ الإنشاء:"
+
+#: layout/portfolio/portfolio-1.php:68 layout/portfolio/portfolio-2.php:69
+#: layout/portfolio/portfolio-3.php:86
+msgid "Share this post on:"
+msgstr "مشاركة هذا الموضوع على:"
+
+#: layout/portfolio/portfolio-1.php:118 layout/portfolio/portfolio-2.php:119
+#: layout/portfolio/portfolio-3.php:136
+#: layout/post-formats/content-aside.php:130
+#: layout/post-formats/content-audio.php:114
+#: layout/post-formats/content-chat.php:130
+#: layout/post-formats/content-gallery.php:122
+#: layout/post-formats/content-image.php:114
+#: layout/post-formats/content-link.php:133
+#: layout/post-formats/content-quote.php:130
+#: layout/post-formats/content-status.php:130
+#: layout/post-formats/content-video.php:117
+msgid "Please Install octa Shortcodes Plugin to enable Social Sharing."
+msgstr ""
+
+#: layout/portfolio/portfolio-1.php:131 layout/portfolio/portfolio-2.php:132
+#: layout/portfolio/portfolio-3.php:46
+msgid "Case"
+msgstr "الحالة"
+
+#: layout/portfolio/portfolio-1.php:131 layout/portfolio/portfolio-2.php:132
+#: layout/portfolio/portfolio-3.php:46
+msgid "Study"
+msgstr "دراسة"
+
+#: layout/portfolio/related-projects.php:24
+msgid "Related"
+msgstr "المتعلقة"
+
+#: layout/portfolio/related-projects.php:24
+msgid "Projects"
+msgstr "المشاريع"
+
+#: layout/portfolio/related-projects.php:89
+msgid "No Related Projects were found."
+msgstr "لم يتم العثور على المشاريع ذات الصلة"
+
+#: layout/post-formats/content-aside.php:138
+#: layout/post-formats/content-audio.php:122
+#: layout/post-formats/content-chat.php:138
+#: layout/post-formats/content-gallery.php:130
+#: layout/post-formats/content-image.php:122
+#: layout/post-formats/content-link.php:141
+#: layout/post-formats/content-quote.php:138
+#: layout/post-formats/content-status.php:138
+#: layout/post-formats/content-video.php:125
+#: layout/post-formats/content.php:138
+msgid "&larr; Previous post"
+msgstr "المقالة السابقة &larr;"
+
+#: layout/post-formats/content-aside.php:139
+#: layout/post-formats/content-audio.php:123
+#: layout/post-formats/content-chat.php:139
+#: layout/post-formats/content-gallery.php:131
+#: layout/post-formats/content-image.php:123
+#: layout/post-formats/content-link.php:142
+#: layout/post-formats/content-quote.php:139
+#: layout/post-formats/content-status.php:139
+#: layout/post-formats/content-video.php:126
+#: layout/post-formats/content.php:139
+msgid "Next post &rarr;"
+msgstr "المقالة التالية  &rarr;"
+
+#: layout/post-formats/content-download.php:19
+msgid "Published on:"
+msgstr "بتاريخ:"
+
+#: layout/post-formats/content-download.php:20
+msgid "By:"
+msgstr "بواسطة:"
+
+#: layout/post-formats/content-download.php:23
+msgid "Edit"
+msgstr "تحرير"
+
+#: layout/post-formats/content-none.php:13
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: layout/post-formats/content-none.php:17
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: layout/post-formats/content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: layout/post-formats/content.php:130
+msgid "Please Install OCTA Shortcodes Plugin to enable Social Sharing."
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:25
+msgid "Classic"
+msgstr "كلاسيك"
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:26
+msgid "Modern"
+msgstr "مودرن"
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:27
+msgid "Flat"
+msgstr "مُسطح"
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:28
+msgid "Outline"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:37
+msgid "Rounded"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:38
+msgid "Square"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:39
+msgid "Round"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:63
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:84
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:125
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:153
+msgid "None"
+msgstr "لا شيء"
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:114
+msgid "Left"
+msgstr "يسار"
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:115
+msgid "Right"
+msgstr "يمين"
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:116
+msgid "Center"
+msgstr "وسط"
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:154
+msgid "Square Dots"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:155
+msgid "Radio Dots"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:156
+msgid "Point Dots"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:157
+msgid "Fill Square Dots"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:158
+msgid "Rounded Fill Square Dots"
+msgstr ""
+
+#: search.php:64
+msgid "The Page You Are Looking for can not Be Found."
+msgstr "يبدو أننا لم نعثر على ما تطلب. لعل استعمال البحث قد يساعد."
+
+#: searchform.php:5
+msgid "Type And Hit Enter ..."
+msgstr "ادخل كلمة البحث هنا ..."
+
+#~ msgid "Posts"
+#~ msgstr "المشاركات"
+
+#~ msgid "Enter search keyword here..."
+#~ msgstr "ادخل كلمة البحث هنا ..."
+
+#~ msgid "Comment navigation"
+#~ msgstr "استعراض التعليق"
+
+#~ msgid "Click OK to reset. Any theme settings will be lost!"
+#~ msgstr "انقر موافق لإعادة تعيين. سيتم فقدان أية إعدادات القالب!"
+
+#~ msgid "Browse"
+#~ msgstr "استعرض"
+
+#~ msgid "Read more"
+#~ msgstr "قراءة المزيد"
+
+#~ msgid "&laquo; Older"
+#~ msgstr "أقدم &raquo; "
+
+#~ msgid "Newer &raquo; "
+#~ msgstr "أحدث &laquo; "
+
+#~ msgid "You Like:"
+#~ msgstr "انتا اعجبت بـ :"
+
+#~ msgid "You don't like anything yet."
+#~ msgstr "لم تعجب بشئ بعد"
+
+#~ msgid "Today's Most Popular Posts"
+#~ msgstr "اكثر المقالات اعجابا اليوم"
+
+#~ msgid "This Month's Most Popular Posts"
+#~ msgstr "اكثر المقالات اعجابا هذا الشهر"
+
+#~ msgid "This Week's Most Popular Posts"
+#~ msgstr "اكثر المقالات اعجابا هذا الاسبوع"
+
+#~ msgid "Most Popular Posts"
+#~ msgstr "اكثر المقالات اعجابا"
+
+#~ msgid "Edit Menu Item"
+#~ msgstr "تعديل عنصر القائمة"
+
+#~ msgid "URL"
+#~ msgstr "الرابط"
+
+#~ msgid "Navigation Label"
+#~ msgstr "التصفح"
+
+#~ msgid "Title Attribute"
+#~ msgstr "العنوان"
+
+#~ msgid "Open link in a new window/tab"
+#~ msgstr "فتح الرابط في نافذة جديدة"
+
+#~ msgid "CSS Classes (optional)"
+#~ msgstr "سى اس اس كلاس جديده"
+
+#~ msgid "Link Relationship (XFN)"
+#~ msgstr "علاقة الرابط"
+
+#~ msgid ""
+#~ "The description will be displayed in the menu if the current theme "
+#~ "supports it."
+#~ msgstr "هذا الوصف سيظهر في القائمة"
+
+#~ msgid "Megamenu column"
+#~ msgstr "صفوف الميجا منيو"
+
+#~ msgid "Move"
+#~ msgstr "تحريك"
+
+#~ msgid "Up one"
+#~ msgstr "الى الاعلى"
+
+#~ msgid "Down one"
+#~ msgstr "الى الاسفل"
+
+#~ msgid "To the top"
+#~ msgstr "الى الأعلى (أول عنصر)"
+
+#~ msgid "Remove"
+#~ msgstr "حذف"
+
+#~ msgid "Cancel"
+#~ msgstr "الغاء"
+
+#~ msgid "* Flickr Feed"
+#~ msgstr "صور من فلكر "
+
+#~ msgid "* Side Banners"
+#~ msgstr "بنرات القائمة الجانبية"
+
+#~ msgid "* Latest Tweets"
+#~ msgstr "اخر التويتات"
+
+#~ msgid "1 Comment"
+#~ msgstr "تعليق واحد"
+
+#~ msgid "% Comments"
+#~ msgstr "% تعليق"
+
+#~ msgid ""
+#~ "Please go to admin panel > Menus > select top- menu and add items to it."
+#~ msgstr ""
+#~ "الرجاء الذهاب الى : صفحة الإدارة ثم القوائم ثم اختر القائمة العلوية و ضع "
+#~ "بها روابط"
+
+#~ msgid "GO"
+#~ msgstr "بحث"
+
+#~ msgid "About"
+#~ msgstr "نبذة عنا"
+
+#~ msgid "Email: "
+#~ msgstr "البريد الألكترونى:"
+
+#~ msgid "Nice Name: "
+#~ msgstr "الإسم:"
+
+#~ msgid "Website: "
+#~ msgstr "الموقع:"
+
+#~ msgid "Registered On :"
+#~ msgstr "تاريخ العضوية:"
+
+#~ msgid "Logged in at: "
+#~ msgstr "اخر تسجيل للدخول:"
+
+#~ msgid "Author ID: "
+#~ msgstr "المعرف:"
+
+#~ msgid "Author Posts"
+#~ msgstr "تدوينات الكاتب"
+
+#~ msgid "Default Field"
+#~ msgstr "الحقل الافتراضي"
+
+#~ msgid "This is a default description."
+#~ msgstr "هذا هو الوصف الافتراضي ."
+
+#~ msgid "<b>SuperFine</b> - Theme options"
+#~ msgstr "<b>سوبر فاين</b> - إعدادات القالب"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s الساعة %2$s"
+
+#~ msgid "(Edit)"
+#~ msgstr "تعديل"
+
+#~ msgid "No Comments"
+#~ msgstr "لا يوجد تعليقات"
+
+#~ msgid "Comments Off"
+#~ msgstr "التعليقات مغلقة"
+
+#~ msgid "Enter your password to view comments."
+#~ msgstr "ادخل كلمة المرور لتتمكن من الرد"
+
+#~ msgid "Comment on %s"
+#~ msgstr "التعليقات على %s"
+
+#~ msgid "Load more"
+#~ msgstr "تحميل المزيد"
+
+#~ msgid "Daily Archives:"
+#~ msgstr "ارشيف يومى:"
+
+#~ msgid "Monthly Archives:"
+#~ msgstr "ارشيف شهرى:"
+
+#~ msgid "Yearly Archives:"
+#~ msgstr "أرشيف سنوي:"
+
+#~ msgid ""
+#~ "Please go to admin panel > Menus > select Global menu and add items to it."
+#~ msgstr ""
+#~ "الرجاء الذهاب الى : صفحة الإدارة ثم القوائم ثم اختر القائمة الرئيسية و ضع "
+#~ "بها روابط"
+
+#~ msgid "Main Menu"
+#~ msgstr "القائمة الرئيسية"
+
+#~ msgid "Top Bar Links"
+#~ msgstr "القائمة العلوية"
+
+#~ msgid "One Page Menu"
+#~ msgstr "قائمة الصفحة الواحده"
+
+#~ msgid "Bottom Footer Menu Links"
+#~ msgstr "قائمة الفوتر"
+
+#~ msgid "404NotFoundMenu"
+#~ msgstr "قائمة الروابط الغير موجودة"
+
+#~ msgid "Sticky"
+#~ msgstr "مثبّت"
+
+#~ msgid "%s (Invalid)"
+#~ msgstr "%s (غير موجود)"
+
+#~ msgid "%s (Pending)"
+#~ msgstr "%s (قيد الانتظار)"
+
+#~ msgid "Original: %s"
+#~ msgstr "الاصل: %s"
+
+#~ msgid "User name Or Email"
+#~ msgstr "اسم او بريد الكترونى"
+
+#~ msgid "Password"
+#~ msgstr "كلمة المرور"
+
+#~ msgid "Login"
+#~ msgstr "دخول"
+
+#~ msgid "Remember me !"
+#~ msgstr "تذكرنى!"
+
+#~ msgid "Please Install and Activate WPML Plugin"
+#~ msgstr "الرجاء تثبيت وتفعيل البرنامج المساعد WPML"
+
+#~ msgid "Welcome"
+#~ msgstr "أهلا بك"
+
+#~ msgid "Log out of this account"
+#~ msgstr "تسجيل الخروج من هذا الحساب"
+
+#~ msgid "Log Out"
+#~ msgstr "خروج"
+
+#~ msgid "Enter your email here"
+#~ msgstr "ضع بريدك الالكترونى هنا"
+
+#~ msgid "Subscribe"
+#~ msgstr "اشترك"
+
+#~ msgid "weeks"
+#~ msgstr "اسبوع"
+
+#~ msgid "days"
+#~ msgstr "يوم"
+
+#~ msgid "Hours"
+#~ msgstr "ساعة"
+
+#~ msgid "Minutes"
+#~ msgstr "دقيقة"
+
+#~ msgid "Seconds"
+#~ msgstr "ثانية"
+
+#~ msgid "Profile page"
+#~ msgstr "صفحة الملف الشخصى"
+
+#~ msgid "Search results for"
+#~ msgstr "نتائج البحث عن"
+
+#~ msgid "Tabs"
+#~ msgstr "التابات"
+
+#~ msgid "Content"
+#~ msgstr "المحتوى"
+
+#~ msgid "Tabbed content"
+#~ msgstr "محتوى مبوب"
+
+#~ msgid "Widget title"
+#~ msgstr "عنوان الودجت"
+
+#~ msgid "Design Options"
+#~ msgstr "خصائص التصميم"
+
+#~ msgid "Tab"
+#~ msgstr "التاب"
+
+#~ msgid "Read More"
+#~ msgstr "قراءة المزيد"
+
+#~ msgid "Not Found"
+#~ msgstr "غير موجودة!"
+
+#~ msgid "Sorry, but you are looking for something that is not here."
+#~ msgstr "نأسف! لكن ما تبحث عنه غير موجود"
+
+#~ msgid "About Author"
+#~ msgstr "عن الكاتب"
+
+#~ msgid "Get in Touch"
+#~ msgstr "تواصل معنا"
+
+#~ msgid "Contact Details"
+#~ msgstr "تفاصيل التواصل"
+
+#~ msgid "<b>EXCEPTION</b> - Theme options"
+#~ msgstr "<b>EXCEPTION</b> - اعدادات القالب"
+
+#~ msgid "You Are Editing in ( <strong>"
+#~ msgstr "الذي تقوم بتحريره في (<strong></strong>"
+
+#~ msgid "Search results for: "
+#~ msgstr "نتائج البحث عن:"
+
+#~ msgid "Office"
+#~ msgstr "المكتب"
+
+#~ msgid "Email"
+#~ msgstr "البريد الإلكتروني"
+
+#~ msgid "Phone"
+#~ msgstr "الهاتف"
+
+#~ msgid "FAX"
+#~ msgstr "الفاكس"
+
+#~ msgid "Global Menu"
+#~ msgstr "القائمة الرئيسية"
+
+#~ msgid "Posted on:"
+#~ msgstr "نشر في :"
+
+#~ msgid "Related Projects"
+#~ msgstr "مشاريع مشابهة"
+
+#~ msgid "Call Us:"
+#~ msgstr "اتصل بنا:"
+
+#~ msgid "Daily Archives"
+#~ msgstr "أرشيف يومى"
+
+#~ msgid "Monthly Archives"
+#~ msgstr "ارشيف شهرى"
+
+#~ msgid "Yearly Archives"
+#~ msgstr "ارشيف سنوى"
+
+#~ msgid "Archives"
+#~ msgstr "الأرشيف"
+
+#~ msgid "Welcome to the Profile page for"
+#~ msgstr "اهلا بك في صفحة الملف الشخصى لـ"
+
+#~ msgid "Tag Archives: %s"
+#~ msgstr "أرشيفات الوسوم: %s"
+
+#~ msgid "Search Results for: %s"
+#~ msgstr "نتائج البحث عن: %s"
+
+#~ msgid "Sorry but no results can not Be Found."
+#~ msgstr "نأسف! لا توجد نتائج"
+
+#~ msgid "Project Info"
+#~ msgstr "معلومات المشروع"
+
+#~ msgid "Category:"
+#~ msgstr "تصنيف:"
+
+#~ msgid "Project Details"
+#~ msgstr "تفاصيل المشروع"
+
+#~ msgid "Post navigation"
+#~ msgstr "استعراض المشاركة"
+
+#~ msgid "Section"
+#~ msgstr "قسم"
+
+#~ msgid "Empty section. Edit page to add content here."
+#~ msgstr "قسم فارغ. عدل الصفحة لتتمكن من إضافة محتوى."
+
+#~ msgid "Text on the button"
+#~ msgstr "محتوى الزرار"
+
+#~ msgid "Previous tab"
+#~ msgstr "التاب السابق"
+
+#~ msgid "Next tab"
+#~ msgstr "التاب التالى"
+
+#~ msgid "Click to toggle"
+#~ msgstr "انقر للتبديل"
+
+#~ msgid "Home"
+#~ msgstr "الرئيسية"
+
+#~ msgid "Flickr feed widget."
+#~ msgstr "صور من فلكر "
+
+#~ msgid "Flickr feed"
+#~ msgstr "صور من فلكر "
+
+#~ msgid "Flickr Feed"
+#~ msgstr "صور من فلكر "
+
+#~ msgid "* Footer Social icons"
+#~ msgstr "ايقونات المشاركة في الفوتر"
+
+#~ msgid "Footer Social icons widget."
+#~ msgstr "ايقونات المشاركة في الفوتر"
+
+#~ msgid "Footer Logo:"
+#~ msgstr "لوجو الفوتر:"
+
+#~ msgid "Your site&#8217;s most recent Posts."
+#~ msgstr "اخر المشاركات بموقعك"
+
+#~ msgid "* Recent Posts"
+#~ msgstr "اخر المشاركات"
+
+#~ msgid "Recent Posts"
+#~ msgstr "اخر المشاركات"
+
+#~ msgid "Add Banners on the sidebars."
+#~ msgstr "إضافة بنرات للقائمة الجانبية"
+
+#~ msgid "Banners"
+#~ msgstr "بنرات"
+
+#~ msgid "Latest tweets widget."
+#~ msgstr "ودجت اخر التويتات"
+
+#~ msgid "Latest Tweets"
+#~ msgstr "اخر التويتات"
+
+#~ msgid ""
+#~ "You can upload an ico image that will represent your website identity "
+#~ "(16px x 16px)"
+#~ msgstr ""
+#~ "يمكنك تحميل صورة إيكو التي من شأنها أن تمثل هوية موقع الويب الخاص بك ( س "
+#~ "16px 16px )"
+
+#~ msgid "Twitter API Config"
+#~ msgstr "اعدادات تويتر"
+
+#~ msgid "Twitter user name"
+#~ msgstr "اسم المستخدم ب تويتر"
+
+#~ msgid "Your twitter user."
+#~ msgstr "ادخل اسم المستخدم الخاص بك على تويتر"
+
+#~ msgid "Widget ID"
+#~ msgstr "معرف الودجت (Widget )"
+
+#~ msgid "Your twitter Widget ID."
+#~ msgstr "ادخل هنا معرف الودجت (Widget )"
+
+#~ msgid "Tweets Limit"
+#~ msgstr "عدد التويتات"
+
+#~ msgid "The limit of tweets number that will be retrieved from twitter."
+#~ msgstr "ادخل هنا اقصى عدد للتويتات المسموح بها للظهور"
+
+#~ msgid "Authors Page Settings"
+#~ msgstr "اعدادات صفحة الكاتب"
+
+#~ msgid "Check the box to Show/Hide the author info."
+#~ msgstr "اظهار واخفاء معلومات الكاتب"
+
+#~ msgid "Check the box to Show/Hide the author Posts."
+#~ msgstr "اظهار واخفاء تدوينات الكاتب"
+
+#~ msgid "Select your prefered Author Posts listing style."
+#~ msgstr "اختر مظهر و طريقة عرض مواضع وتدوينات الكاتب"
+
+#~ msgid "Other"
+#~ msgstr "أخرى"
+
+#~ msgid "enter nymber of tags that will be displayed in widgets."
+#~ msgstr "ادخل هنا اقصى عدد للوسوم يسمح به"
+
+#~ msgid "Google Analytics - Tracking Code"
+#~ msgstr "جوجل تحليلات - كود تتبع"
+
+#~ msgid "Top Bar Settings"
+#~ msgstr "اعدادات البار العلوى"
+
+#~ msgid "Check the box to Show/Hide the top bar above header."
+#~ msgstr "هذا الاختيار يتيح لك اظهار و إخفاء البار العلوى بالموقع"
+
+#~ msgid "Top bar left content"
+#~ msgstr "المحتوى الأيمن للبار العلوى"
+
+#~ msgid "Top bar Right content"
+#~ msgstr "المتحوى الايسر للبار العلوى"
+
+#~ msgid "Top Bar Styling"
+#~ msgstr "مظهر البار العلوى"
+
+#~ msgid "Header Layouts"
+#~ msgstr "اشكال الهيدر"
+
+#~ msgid "Header settings"
+#~ msgstr "اعدادات الهيدر"
+
+#~ msgid "Logo settings"
+#~ msgstr "اعدادات اللوجو"
+
+#~ msgid "Site Slogan"
+#~ msgstr "اعدادات الشعار"
+
+#~ msgid "Page Title Style"
+#~ msgstr "شكل عنوان الصفحة"
+
+#~ msgid "What's Going On?"
+#~ msgstr "احصائيات المنتدى"
+
+#~ msgid "Oh bother! No forums were found here!"
+#~ msgstr "،اسف! لا توجد منتديات متاحة"
+
+#~ msgid "Oh bother! No replies were found here!"
+#~ msgstr "نأسف! لا توجد ردود متاحة"
+
+#~ msgid "Oh bother! No topics were found here!"
+#~ msgstr "نأسف! لا توجد مواضيع متاحة"
+
+#~ msgid "Now Editing &ldquo;%s&rdquo;"
+#~ msgstr "يتم الان التعديل فى &ldquo;%s&rdquo;"
+
+#~ msgid "Create New Forum in &ldquo;%s&rdquo;"
+#~ msgstr "انشاء منتدى جديد فى &ldquo;%s&rdquo;"
+
+#~ msgid "Create New Forum"
+#~ msgstr "انشاء منتدى جديد"
+
+#~ msgid ""
+#~ "This forum is closed to new content, however your account still allows "
+#~ "you to do so."
+#~ msgstr ""
+#~ "تم إغلاق هذا المنتدى إلى محتوى جديد ، ولكن حسابك لا يزال يسمح لك أن تفعل "
+#~ "ذلك ."
+
+#~ msgid "Your account has the ability to post unrestricted HTML content."
+#~ msgstr "حسابك لديه القدرة على نشر محتوى HTML غير المقيد ."
+
+#~ msgid "Forum Name (Maximum Length: %d):"
+#~ msgstr "اسم المنتدى (اقصى عدد للحروف: %d):"
+
+#~ msgid ""
+#~ "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> "
+#~ "tags and attributes:"
+#~ msgstr ""
+#~ "يمكنك استخدام هذه <abbr title=\"HyperText Markup Language\">HTML</abbr> "
+#~ "العلامات والصفات :"
+
+#~ msgid "Forum Type:"
+#~ msgstr "نوع المنتدى:"
+
+#~ msgid "Status:"
+#~ msgstr "الحالة:"
+
+#~ msgid "Visibility:"
+#~ msgstr "الرؤية:"
+
+#~ msgid "Parent Forum:"
+#~ msgstr "المنتدى الأب:"
+
+#~ msgid "(No Parent)"
+#~ msgstr "لا يوجد أب"
+
+#~ msgid "Submit"
+#~ msgstr "ارسال"
+
+#~ msgid "The forum &#8216;%s&#8217; is closed to new content."
+#~ msgstr "منتدى & &#8216;%s&#8217; مغلق إلى المحتوى الجديد."
+
+#~ msgid "You cannot create new forums."
+#~ msgstr "لا يمكنك إنشاء منتديات جديدة."
+
+#~ msgid "You must be logged in to create new forums."
+#~ msgstr "يجب أن تكون مسجلا لانشاء منتديات جديدة."
+
+#~ msgid "Reply To: %s"
+#~ msgstr "قم بالرد على : %s"
+
+#~ msgid ""
+#~ "This topic is marked as closed to new replies, however your posting "
+#~ "capabilities still allow you to do so."
+#~ msgstr ""
+#~ "يتم وضع علامة هذا الموضوع و مغلقة أمام ردود جديدة ، ولكن قدرات النشر "
+#~ "الخاص بك لا تزال تسمح لك أن تفعل ذلك ."
+
+#~ msgid "Notify the author of follow-up replies via email"
+#~ msgstr "إخطار صاحب المتابعة على المواضيع عبر البريد الإلكتروني"
+
+#~ msgid "Notify me of follow-up replies via email"
+#~ msgstr "يخطر لي من متابعة ردود عبر البريد الإلكتروني"
+
+#~ msgid "Keep a log of this edit:"
+#~ msgstr "الاحتفاظ بسجل من هذا تحرير :"
+
+#~ msgid "Optional reason for editing:"
+#~ msgstr "السبب اختياري للتحرير :"
+
+#~ msgid "The topic &#8216;%s&#8217; is closed to new replies."
+#~ msgstr "هذا الموضوع &#8216;%s&#8217; مغلق للردود الجديدة."
+
+#~ msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+#~ msgstr "هذا المنتدى &#8216;%s&#8217; مغلق للمواضيع والردود الجديدة."
+
+#~ msgid "You cannot reply to this topic."
+#~ msgstr "لا يمكنك الرد على هذا الموضوع ."
+
+#~ msgid "You must be logged in to reply to this topic."
+#~ msgstr "يجب عليك تسجيل الدخول للرد على هذا الموضوع ."
+
+#~ msgid "Split topic \"%s\""
+#~ msgstr "تقسيم الموضوع  \"%s\""
+
+#~ msgid ""
+#~ "When you split a topic, you are slicing it in half starting with the "
+#~ "reply you just selected. Choose to use that reply as a new topic with a "
+#~ "new title, or merge those replies into an existing topic."
+#~ msgstr ""
+#~ "عند تقسيم الموضوع، كنت تشريح عليه في النصف بدءا من الرد الذي حددته فقط . "
+#~ "اختيار لاستخدام هذا الرد في موضوع جديد مع عنوان جديد ، أو دمج تلك الردود "
+#~ "في موضوع القائمة."
+
+#~ msgid ""
+#~ "If you use the existing topic option, replies within both topics will be "
+#~ "merged chronologically. The order of the merged replies is based on the "
+#~ "time and date they were posted."
+#~ msgstr ""
+#~ "إذا كنت تستخدم الخيار موضوع القائمة، سيتم دمج المواضيع في كلا الموضوعين "
+#~ "زمنيا. ويستند ترتيب الردود المدمج على الوقت و التاريخ الذي تم نشرها ."
+
+#~ msgid "Split Method"
+#~ msgstr "طريقة التقسيم"
+
+#~ msgid "New topic in <strong>%s</strong> titled:"
+#~ msgstr "موضوع جديد فى <strong>%s</strong> :"
+
+#~ msgid "Split: %s"
+#~ msgstr "تقسيم: %s"
+
+#~ msgid "Use an existing topic in this forum:"
+#~ msgstr "استخدام موضوع القائمة في هذا المنتدى :"
+
+#~ msgid "Topic Extras"
+#~ msgstr "إضافات الموضوع"
+
+#~ msgid "Copy subscribers to the new topic"
+#~ msgstr "نسخ المشتركين في موضوع جديد"
+
+#~ msgid "Copy favoriters to the new topic"
+#~ msgstr "نسخ المفضلات  إلى موضوع جديد"
+
+#~ msgid "Copy topic tags to the new topic"
+#~ msgstr "نسخ وسوم الموضوع إلى موضوع جديد"
+
+#~ msgid "<strong>WARNING:</strong> This process cannot be undone."
+#~ msgstr "<strong>تحذير:</strong> هذه العملية لا يمكن التارجع فيها."
+
+#~ msgid "You do not have the permissions to edit this topic!"
+#~ msgstr "ليس لديك الأذونات ل تعديل هذا الموضوع !"
+
+#~ msgid "You cannot edit this topic."
+#~ msgstr "لا يمكنك تحرير هذا الموضوع."
+
+#~ msgid "Create New Topic in &ldquo;%s&rdquo;"
+#~ msgstr "انشاء موضوع جديد فى &ldquo;%s&rdquo;"
+
+#~ msgid "Create New Topic"
+#~ msgstr "انشاء موضوع جديد"
+
+#~ msgid ""
+#~ "This forum is marked as closed to new topics, however your posting "
+#~ "capabilities still allow you to do so."
+#~ msgstr ""
+#~ "يتم وضع علامة هذا المنتدى مغلقة ل مواضيع جديدة، ولكن قدرات النشر الخاص بك "
+#~ "لا تزال تسمح لك أن تفعل ذلك ."
+
+#~ msgid "Topic Title (Maximum Length: %d):"
+#~ msgstr "عنوان الموضوع (اقصى حد للحروف: %d):"
+
+#~ msgid "Topic Tags:"
+#~ msgstr "وسوم الموضوع:"
+
+#~ msgid "Forum:"
+#~ msgstr "المنتدى:"
+
+#~ msgid "(No Forum)"
+#~ msgstr "لا توجد منتديات"
+
+#~ msgid "Topic Type:"
+#~ msgstr "نوع الموضوع:"
+
+#~ msgid "Topic Status:"
+#~ msgstr "حالة الموضوع:"
+
+#~ msgid "You cannot create new topics."
+#~ msgstr "لا يمكنك إنشاء مواضيع جديدة."
+
+#~ msgid "You must be logged in to create new topics."
+#~ msgstr "لا يمكنك إنشاء جديد أنت يجب أن تكون مسجلا ل خلق وضع مواضيع جديدة .."
+
+#~ msgid "Name"
+#~ msgstr "الإسم"
+
+#~ msgid "First Name"
+#~ msgstr "الإسم الأول"
+
+#~ msgid "Last Name"
+#~ msgstr "الإسم الأخير"
+
+#~ msgid "Nickname"
+#~ msgstr "اسم العضو"
+
+#~ msgid "Display Name"
+#~ msgstr "الاسم الظاهر"
+
+#~ msgid "Contact Info"
+#~ msgstr "معلومات الاتصال"
+
+#~ msgid "Website"
+#~ msgstr "الموقع"
+
+#~ msgid "About Yourself"
+#~ msgstr "نبذة عنك"
+
+#~ msgid "About the user"
+#~ msgstr "نبذة عن العضو"
+
+#~ msgid "Biographical Info"
+#~ msgstr "معلومات ذاتية"
+
+#~ msgid "Account"
+#~ msgstr "الحساب"
+
+#~ msgid "Username"
+#~ msgstr "اسم المستخدم"
+
+#~ msgid ""
+#~ "There is a pending email address change to <code>%1$s</code>. <a href="
+#~ "\"%2$s\">Cancel</a>"
+#~ msgstr ""
+#~ "هناك في انتظار تغيير عنوان البريد الإلكتروني إلى <code>%1$s</code>. <a "
+#~ "href=\"%2$s\">الغاء</a>"
+
+#~ msgid "New Password"
+#~ msgstr "كلمة المرور الجديدة"
+
+#~ msgid ""
+#~ "If you would like to change the password type a new one. Otherwise leave "
+#~ "this blank."
+#~ msgstr ""
+#~ "إذا كنت ترغب في تغيير كلمة المرور اكتب واحدة جديدة. ترك وإلا فإن هذا "
+#~ "فارغا."
+
+#~ msgid "Type your new password again."
+#~ msgstr "اكتب كلمة المرور الجديدة مرة أخرى."
+
+#~ msgid ""
+#~ "Your password should be at least ten characters long. Use upper and lower "
+#~ "case letters, numbers, and symbols to make it even stronger."
+#~ msgstr ""
+#~ "وينبغي أن تكون كلمة المرور الخاصة بك لا يقل عن عشرة حرفا . استخدام الحروف "
+#~ "العلوية والسفلية حالة والأرقام و الرموز ل تجعل من أقوى ."
+
+#~ msgid "User Role"
+#~ msgstr "دور المستخدم"
+
+#~ msgid "Network Role"
+#~ msgstr "دور الشبكة"
+
+#~ msgid "Grant this user super admin privileges for the Network."
+#~ msgstr "منح هذا المستخدم امتيازات المشرف السوبر لشبكة ."
+
+#~ msgid "Update Profile"
+#~ msgstr "تحديث الملف الشخصي"
+
+#~ msgid "Update User"
+#~ msgstr "تحديث المستخدم"
+
+#~ msgid "Forum"
+#~ msgstr "المنتدى"
+
+#~ msgid "Freshness"
+#~ msgstr "التحديثات"
+
+#~ msgid "Last updated %s"
+#~ msgstr "آخر تحديث لل %s"
+
+#~ msgid "Forum: "
+#~ msgstr "المنتدى:"
+
+#~ msgid "in reply to: "
+#~ msgstr "في رد على:"
+
+#~ msgid "Started by: %1$s"
+#~ msgstr "كتبت بواسطة: %1$s"
+
+#~ msgid "in: <a href=\"%1$s\">%2$s</a>"
+#~ msgstr "فى: <a href=\"%1$s\">%2$s</a>"
+
+#~ msgid "Topic"
+#~ msgstr "موضوع"
+
+#~ msgid "Voices"
+#~ msgstr "تصويتات"
+
+#~ msgid "Profile"
+#~ msgstr "الملف الشخصى"
+
+#~ msgid "Topics Started"
+#~ msgstr "شارك بمواضيع"
+
+#~ msgid "Replies Created"
+#~ msgstr "شارك بردود"
+
+#~ msgid "Favorites"
+#~ msgstr "مفضلات"
+
+#~ msgid "Subscriptions"
+#~ msgstr "اشتراكات"
+
+#~ msgid "Favorite Forum Topics"
+#~ msgstr "مواضيع مفضلة مميزة"
+
+#~ msgid "You currently have no favorite topics."
+#~ msgstr "ليس لديك أي مواضيع مفضلة ."
+
+#~ msgid "This user has no favorite topics."
+#~ msgstr "هذا المستخدم ليس لديه موضوعات مفضلة."
+
+#~ msgid "Forum Role: %s"
+#~ msgstr "دور المنتدى: %s"
+
+#~ msgid "Topics Started: %s"
+#~ msgstr "المواضيع: %s"
+
+#~ msgid "Replies Created: %s"
+#~ msgstr "الردود: %s"
+
+#~ msgid "Forum Replies Created"
+#~ msgstr "الردود في المنتدى"
+
+#~ msgid "You have not replied to any topics."
+#~ msgstr "أنت لم ترد على اي موضوع ."
+
+#~ msgid "This user has not replied to any topics."
+#~ msgstr "لم يرد هذا المستخدم على أي موضوعات ."
+
+#~ msgid "Subscribed Forums"
+#~ msgstr "المنتديات المشارك فيها"
+
+#~ msgid "You are not currently subscribed to any forums."
+#~ msgstr "أنت غير مشترك حاليا فى أي منتدى ."
+
+#~ msgid "This user is not currently subscribed to any forums."
+#~ msgstr "هذا المستخدم غير مشترك حاليا إلى أي منتدى ."
+
+#~ msgid "Subscribed Topics"
+#~ msgstr "المواضيع المشارك فيها"
+
+#~ msgid "You are not currently subscribed to any topics."
+#~ msgstr "أنت غير مشترك حاليا في أي موضوعات ."
+
+#~ msgid "This user is not currently subscribed to any topics."
+#~ msgstr "هذا المستخدم غير مشترك حاليا فى أي موضوعات ."
+
+#~ msgid "Forum Topics Started"
+#~ msgstr "المواضيع بالمنتدى"
+
+#~ msgid "You have not created any topics."
+#~ msgstr "لم تقم بإنشاء أي مواضيع ."
+
+#~ msgid "This user has not created any topics."
+#~ msgstr "لم يخلق هذا المستخدم أية موضوعات ."
+
+#~ msgid ""
+#~ "Hello our valued visitor, We present you the best web solutions and high "
+#~ "quality graphic designs with a lot of features. just login to your "
+#~ "account and enjoy ..."
+#~ msgstr ""
+#~ "أهلا بك زائرنا الكريم, نحن نقدم لك افضل حلول الويب بأعلى جوده و افضل خدمة "
+#~ "في البرمجة والتصميم فقط قم بالتسجيل و استمتع بخدماتنا."
+
+#~ msgid "Office Location"
+#~ msgstr "عنوان المكتب"
+
+#~ msgid "Search results for &ldquo;"
+#~ msgstr "نتائج البحث عن  &ldquo;"
+
+#~ msgid "Search results for:"
+#~ msgstr "نتائج البحث عن:"
+
+#~ msgid "remove"
+#~ msgstr "حذف"

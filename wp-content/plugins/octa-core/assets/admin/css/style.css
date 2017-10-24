@@ -1,0 +1,259 @@
+a{
+	text-decoration: none;
+}
+.vc_edit_form_elements .vc_column {
+	padding: 15px !important;
+	background-color: #f4f4f4;
+	margin: 0 5px 5px;
+	width: 100% !important;
+}
+.edit_form_line{
+	position: relative;
+	float: left;
+	width: 66%;
+	padding-right: 21px;
+}
+.vc_edit_form_elements .vc_description{
+	/*position: absolute;*/
+    margin: 0 !important;
+    /*right: 0;
+    top: 10px*/
+}
+/*.vc_edit_form_elements .vc_description i{
+	font-size:17px;
+}*/
+.vc_element_label, .wpb_element_label{
+	float: left;
+	width: 30%;
+	margin-bottom: 0 !important;
+	font-weight: 700 !important;
+	padding-top: 8px
+}
+.vc_properties-list input:focus, .vc_properties-list select:focus{
+	box-shadow: none;
+}
+.no-bg{
+	background-image: none !important;
+	background-color: #03A9F4;
+	border-radius: 3px;
+	font-size: 17px !important;
+	color: #fff;
+	width: 33px !important;
+	height: 33px !important;
+	top: 15px !important;
+	line-height: 33px !important;
+	text-align: center;
+}
+.vc_add-element-container .wpb-content-layouts a[data-tag*="it_"],.vc_add-element-container .wpb-content-layouts a#gro_grid {
+    background-color: #fff;
+}
+.vc_add-element-container .wpb-content-layouts a[data-tag*="it_"]:before {
+	position: absolute;
+	top: 0;
+	right: -1px;
+	background: rgba(3, 169, 244, 0.5);
+	color: #fff;
+	font-size: 65%;
+	display: inline-block;
+	content: "OCTA";
+	padding: 2px;
+	line-height: 1;
+	letter-spacing: 0.5px;
+}
+.vc_add-element-container .wpb-content-layouts a[data-tag="gro_grid"] i.no-bg,.wpb_gro_grid i.no-bg{
+	background-color: #f44336
+}
+.vc_add-element-container .wpb-content-layouts a[data-tag="gro_pricing"] i.no-bg, .wpb_gro_pricing i.no-bg {
+    background-color: #2daf13;
+}
+.count_date.textfield{
+	background-position: 94% 10px
+}
+.wpb_el_type_animation_style .vc_col-sm-6:last-child{
+	display: none;
+}
+.wpb_el_type_animation_style .vc_col-sm-6:first-child{
+	width: 100% !important
+}
+.vc_properties-list select{
+	padding: 7px !important
+}
+.vc_edit_form_elements .vc_column+.vc_column, .vc_edit_form_elements .vc_column-with-padding{
+	padding-top:0px
+}
+.vc_description{
+	font-size:11px
+}
+.vc_properties-list input[type=checkbox]{
+	margin-left:0 !important;
+	padding-left:0 !important
+}
+.vc_properties-list .vc_checkbox-label{
+	/* padding: 9px 11px !important; */
+	/* background-color: #f7f7f7; */
+	display: inline-block;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default{
+	border:0 !important;
+	text-align: center;
+}
+.vc_shortcode-param .it_up_img_field,.vc_shortcode-param .it_video_bg_field{
+	width: 76% !important;
+	padding: 9px 10px 8px !important;
+	vertical-align: middle;
+}
+.vc_shortcode-param .remove-val{
+	display: none;
+	top: 2px;
+}
+.numberfield{
+	height: auto !important;
+}
+.vc_edit_form_elements .vc_head{
+	padding: 10px !important;
+	background-color: #eee;
+	border-bottom: 0 !important
+}
+.vc_edit_form_elements .vc_head .edit_form_line{
+	display: none;
+}
+.vc_edit_form_elements .vc_head .wpb_element_label{
+	margin-bottom: 0
+}
+.vc_edit_form_elements .vc_head small{
+	color: #ff7979;
+	font-size: 11px;
+}
+.vc_ui-panel-header-container {
+	padding: 14px 18px;
+	background: #00aef0 none !important;
+	margin: 0;
+}
+.vc_ui-panel-header-container h3 {
+	font-size: 18px !important;
+	font-weight: 600 !important;
+}
+.vc_ui-panel-header .vc_ui-panel-header-header {
+	border-bottom: 1px rgba(255, 255, 255, 0.3) solid;
+	margin-bottom: 20px;
+	display: block !important;
+}
+.vc_general.vc_ui-tabs-line .vc_ui-tabs-line-trigger {
+	font-size: 14px !important;
+	padding: 10px 13px !important;
+}
+.vc_ui-panel-content-container .vc_ui-panel-content{
+	padding: 0 15px !important;
+	margin: 0 !important
+}
+.vc_ui-button.vc_ui-button-action {
+	color: #fff;
+	background-color: #00aef0 !important;
+}
+.vc_ui-button.vc_ui-button-action:hover {
+	background-color: #0098d2 !important;
+}
+.vc_ui-panel-header .vc_ui-control-button .vc-composer-icon {
+	font-size: 20px !important;
+	background: rgba(255, 255, 255, 0.34);
+	padding: 5px;
+	border-radius: 4px;
+	width: 22px;
+	height: 22px;
+	float: left;
+	margin: -2px 0 0 !important;
+}
+.vc_ui-panel-header .vc_ui-control-button .vc-composer-icon:hover{
+	background-color: rgba(0,0,0,0.1);
+}
+.vc_edit_form_elements input.wp-color-picker[type=text] {
+	height: 32px !important;
+}
+[data-vc-shortcode="vc_row"] .vc_css-editor .vc_settings label:nth-child(7),[data-vc-shortcode="vc_row"] .vc_css-editor .vc_settings div:nth-child(8),
+[data-vc-shortcode="vc_row"] .vc_css-editor .vc_settings div:nth-child(9),[data-vc-shortcode="vc_row"] .vc_css-editor .vc_settings div:nth-child(10){
+	display: none !important
+}
+.vc_checkbox-label {
+	font-size: 0px
+}
+.vc_checkbox-label input[type=checkbox]{
+	background-color: #fff;
+	border: 1px solid #dfdfdf;
+	border-radius: 20px;
+	height: 32px;
+	position: relative;
+	vertical-align: middle;
+	width: 65px !important;
+	transition: border 0.4s, box-shadow 0.4s;
+	cursor: pointer;
+	-webkit-box-shadow: inset 0px 0px 5px 0px rgba(0,0,0,0.2);
+	box-shadow: inset 0px 0px 5px 0px rgba(0,0,0,0.2);
+}
+.vc_checkbox-label input[type=checkbox]:focus{
+	border:1px solid #dfdfdf;
+	-webkit-box-shadow: inset 0px 0px 5px 0px rgba(0,0,0,0.2);
+	box-shadow: inset 0px 0px 5px 0px rgba(0,0,0,0.2);
+}
+.vc_checkbox-label input[type=checkbox]:checked {
+    background: #26abff;
+    box-shadow: #26abff 0px 0px 0px 16px inset;
+    transition: border 0.4s, box-shadow 0.4s, background-color 1.2s;
+}
+.vc_checkbox-label input[type=checkbox]:before {
+    background: #fff;
+    border-radius: 100%;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+    height: 28px;
+    position: absolute;
+    top: 1px;
+    width: 28px !important;
+    left: 1px;
+    transition: background-color 0.4s, left 0.2s;
+    content: "" !important;
+}
+.vc_checkbox-label input[type=checkbox]:after {
+    position: absolute;
+    top: 15px;
+    right: 10px;
+    content: "OFF";
+    font-size: 10px;
+    color: #ccc;
+}
+.vc_checkbox-label input[type=checkbox]:checked:before {
+    margin: 0 !important;
+    left: 34px;
+}
+.vc_checkbox-label input[type=checkbox]:checked:after {
+    left: 11px;
+    right:auto;
+    color:#fff;
+    content:"ON"
+}
+.gfonts .wpb_element_label{
+	width: 100%;
+	text-align: center;
+	font-size: 22px;
+	font-weight: normal !important;
+}
+.gfonts .edit_form_line{
+	width: 0px
+}
+.txt_desc{
+	display: none;
+	position: absolute;
+	right: 100%;
+	top: 0;
+	background-color: #fff;
+	max-width: 700px;
+	min-width: 443px;
+	border-radius: 5px;
+	padding: 10px;
+	box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.19);
+}
+.select_bxs select{
+	display: none !important;
+}
+.select_bxs .sel_opts li{
+	font-size: 13px;
+	background-color: #fff
+}

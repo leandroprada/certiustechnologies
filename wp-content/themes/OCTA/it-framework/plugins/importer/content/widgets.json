@@ -1,0 +1,29 @@
+[
+
+{
+"sidebar-2":["search-3","it_widget_recent_posts-3","categories-3","recent-comments-3","tag_cloud-2","it_widget_tweets-3","it_widget_flickr-2"],
+"midle-footer-widgets":["it_widget_image_text-2","it_widget_recent_posts-5","it_widget_tweets-6","it_widget_contact-5","it_widget_flickr-3","recent-comments-4","nav_menu-8","tag_cloud-3"],
+"footer-bottom-widgets":["it_widget_footer_socials-6","nav_menu-6"],
+"side-1":["search-4","categories-4","it_widget_tweets-7","tag_cloud-4","it_widget_flickr-4"],
+"side-2":["text-5","it_widget_recent_posts-6"],
+"side-3":["it_widget_image_text-3"],
+"side-4":["text-6","nav_menu-9"],
+"side-5":["it_widget_image_text-4","nav_menu-10"]
+},
+
+{
+"search":{"3":{"title":"Search in Site"},"4":{"title":"Search"},"_multiwidget":1},
+"it_widget_recent_posts":{"3":{"title":"","number":3,"show_date":true},"5":{"title":"Latest News","number":3,"show_date":true},"6":{"title":"","number":3,"show_date":true},"_multiwidget":1},
+"categories":{"3":{"title":"","count":1,"hierarchical":1,"dropdown":0},"4":{"title":"BLOG CATEGORIES","count":1,"hierarchical":0,"dropdown":0},"_multiwidget":1},
+"recent-comments":{"3":{"title":"","number":3},"4":{"title":"","number":3},"_multiwidget":1},
+"tag_cloud":{"2":{"title":"Tag Cloud","taxonomy":"post_tag"},"3":{"title":"Tag Cloud","taxonomy":"post_tag"},"4":{"title":"TAGS CLOUD","taxonomy":"post_tag"},"_multiwidget":1},
+"it_widget_tweets":{"3":{"title":"Latest Tweets","tw_user":"IT__RAYS","tw_num":"1"},"6":{"title":"Latest Tweets","tw_user":"IT__RAYS","tw_num":"2"},"7":{"title":"TWITTER FEED","tw_user":"IT__RAYS","tw_num":"1"},"_multiwidget":1},
+"it_widget_flickr":{"2":{"title":"Flickr Feed","widget_txt":"","flicker_id":"45409431@N00","limit":"15"},"3":{"title":"Flickr Feed","widget_txt":"","flicker_id":"45409431@N00","limit":"12"},"4":{"title":"Flickr Feed","widget_txt":"","flicker_id":"45409431@N00","limit":"12"},"_multiwidget":1},
+"it_widget_image_text":{"2":{"title":"","image":"\/\/wp.it-rays.net\/octa\/wp-content\/uploads\/2017\/03\/logo-light.png","text":"Lorem ipsum dolor sit amet, co sectetur adipiscing elit. Nullam convallis euismod mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nlis euismod mollis. Nullam convallis euismod mollisNullam convallis euismod mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nlis euismod mollis."}, "3":{"title":"About Us","image":"\/\/wp.it-rays.net\/octa\/wp-content\/uploads\/2014\/12\/2-1.jpg","text":"Lorem ipsum dolor sit amet, co sectetur adipiscing elit. Nullam convallis euismod mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href=\"#\">Nlis euismod<\/a> mollis. Nullam convallis euismod mollis."},"4":{"title":"","image":"\/\/wp.it-rays.net\/octa\/wp-content\/uploads\/2017\/03\/logo-light.png","text":"Let\u2019s Create Unlimited Websites With this Fancy Huge HTML Template, With Endless possibilities and very easy Customization, What else do you need to create all your websites, it is completely complete one."}, "_multiwidget":1},
+"it_widget_contact":{"5":{"title":"Contact Us","footer_text":"Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer ut neque mauris ante, blandit ultrices a, suscipit eget, quam. Integer ut neque.","NL":""}},
+"nav_menu":{"8":{"title":"Useful Links","nav_menu":28},"6":{"nav_menu":28}, "9":{"title":"Our Friends","nav_menu":25},"10":{"title":"Useful Links","nav_menu":25},"_multiwidget":1},
+"it_widget_footer_socials":{"6":{"title":"","footer_text":""}},
+"text":{"5":{"title":"About Us","text":"Lorem ipsum dolor sit amet, co sectetur adipiscing elit. Nullam convallis euismod mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nlis euismod mollis. Nullam convallis euismod mollis.","filter":false}, "6":{"title":"What We Do ?","text":"Lorem ipsum dolor sit amet, co sectetur adipiscing elit. Nullam convallis euismod mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nlis euismod mollis. Nullam convallis euismod mollis.","filter":false},"_multiwidget":1}
+}
+
+]

@@ -1,0 +1,1892 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: octa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-06 07:52+0200\n"
+"PO-Revision-Date: 2017-02-16 21:02+0200\n"
+"Last-Translator: \n"
+"Language-Team: IT-RAYS <info@it-rays.net>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: it-framework/assets\n"
+
+#: 404.php:32 search.php:66
+msgid "OOOPS!"
+msgstr ""
+
+#: 404.php:32
+msgid "The Page You Are Looking for could not Be Found."
+msgstr ""
+
+#: 404.php:33 404.php:70 404.php:105 search.php:70
+msgid "You can use the form below to search for what you need."
+msgstr ""
+"È possibile utilizzare il modulo qui sotto per cercare quello che ti serve."
+
+#: 404.php:42
+msgid ""
+"You can browse the following links that may help you for what you are "
+"looking for."
+msgstr ""
+
+#: 404.php:51 404.php:64 404.php:99
+msgid "404"
+msgstr ""
+
+#: 404.php:64 404.php:99
+msgid "Page Not Found"
+msgstr "Pagina Non Trovata"
+
+#: 404.php:68 404.php:103
+msgid "Sorry.. The Page You Are Looking for could not Be Found."
+msgstr ""
+
+#: archive-download.php:73
+msgid "Starting at: "
+msgstr "A partire da: "
+
+#: archive-download.php:83
+msgid "Add to Cart"
+msgstr "Aggiungi al carrello"
+
+#: archive-download.php:104
+msgid "Sorry!!! Not Downloads Found"
+msgstr ""
+
+#: archive-download.php:106
+msgid "Seems you are looking for something that is not here."
+msgstr ""
+
+#: archive-download.php:109
+msgid "Back To Home Page"
+msgstr "Torna alla Home Page"
+
+#: bbpress/content-statistics.php:21
+msgid "Our users have posted a total of :"
+msgstr "Nos membres ont posté un total de:"
+
+#: bbpress/content-statistics.php:21
+msgid "Topics"
+msgstr "Sujets"
+
+#: bbpress/content-statistics.php:21
+msgid "in"
+msgstr "en"
+
+#: bbpress/content-statistics.php:21
+msgid "Forums"
+msgstr "Forums"
+
+#: bbpress/content-statistics.php:24
+msgid "We have"
+msgstr "Nous avons"
+
+#: bbpress/content-statistics.php:24
+msgid "Registered Users"
+msgstr "Les utilisateurs enregistrés"
+
+#: bbpress/content-statistics.php:27
+msgid "Number of total replaies on all forums is"
+msgstr "Nombre de replaies totales sur tous les forums est"
+
+#: bbpress/content-statistics.php:27
+msgid "Replies"
+msgstr "Réponses"
+
+#: bbpress/content-statistics.php:30
+msgid "Topic Tags"
+msgstr "Topic Tags"
+
+#: bbpress/content-statistics.php:34
+msgid "Empty Topic Tags"
+msgstr "Vide Sujet Mots clés"
+
+#: bbpress/content-statistics.php:43
+msgid "Hidden Topics"
+msgstr "Sujets cachés"
+
+#: bbpress/content-statistics.php:54
+msgid "Hidden Replies"
+msgstr "Réponses cachés"
+
+#: bbpress/form-search.php:14
+msgid "Search for:"
+msgstr "Rechercher:"
+
+#: bbpress/form-search.php:16 searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: comments.php:10
+msgid "Comments"
+msgstr "Commenti"
+
+#: comments.php:24
+msgid "&larr; Older Comments"
+msgstr "& Larr; Older Comments"
+
+#: comments.php:25
+msgid "Newer Comments &rarr;"
+msgstr "Commenti & rarr recente;"
+
+#: comments.php:30
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: it-framework/classes/it-framework.class.php:212
+msgid "Export Theme Options"
+msgstr ""
+
+#: it-framework/classes/it-framework.class.php:213
+msgid "The following are the stored theme options for the theme:"
+msgstr ""
+
+#: it-framework/classes/it-framework.class.php:219
+msgid "Download File"
+msgstr ""
+
+#: it-framework/classes/it-framework.class.php:225
+msgid "Import Theme Options"
+msgstr ""
+
+#: it-framework/classes/it-framework.class.php:226
+msgid "Restore a previous theme options."
+msgstr ""
+
+#: it-framework/classes/it-framework.class.php:229
+msgid "Import File"
+msgstr ""
+
+#: it-framework/classes/it-framework.class.php:353
+#: it-framework/classes/it-framework.class.php:374
+#: it-framework/classes/it-framework.class.php:405
+msgid "You Are Editing in Language."
+msgstr ""
+
+#: it-framework/classes/it-framework.class.php:429
+#: it-framework/classes/it-framework.class.php:437
+#: it-framework/classes/it-meta-boxes.class.php:128
+#: it-framework/classes/it-meta-boxes.class.php:133
+msgid "Upload"
+msgstr "Carica"
+
+#: it-framework/classes/it-framework.class.php:429
+msgid "Remove Image"
+msgstr ""
+
+#: it-framework/classes/it-framework.class.php:442
+msgid "Import Demo Data"
+msgstr ""
+
+#: it-framework/classes/it-framework.class.php:442
+msgid "This can take several minutes, please wait and do not worry!"
+msgstr ""
+
+#: it-framework/classes/it-framework.class.php:443
+msgid "Download and import file attachments!"
+msgstr ""
+
+#: it-framework/classes/it-framework.class.php:470
+msgid "Add New"
+msgstr ""
+
+#: it-framework/classes/it-framework.class.php:478
+#: it-framework/classes/it-meta-boxes.class.php:154
+msgid "Add Icon"
+msgstr ""
+
+#: it-framework/classes/it-framework.class.php:480
+#: it-framework/classes/it-meta-boxes.class.php:156
+msgid "Remove Icon"
+msgstr ""
+
+#: it-framework/classes/it-framework.class.php:486
+msgid "Add Module"
+msgstr ""
+
+#: it-framework/classes/it-meta-boxes.class.php:37
+msgid "Main Layout Style"
+msgstr ""
+
+#: it-framework/classes/it-meta-boxes.class.php:39
+msgid "Page Layout Mode"
+msgstr "Modalità Layout di pagina"
+
+#: it-framework/classes/it-meta-boxes.class.php:40
+msgid "Select Menu"
+msgstr ""
+
+#: it-framework/classes/it-meta-boxes.class.php:47
+msgid "Custom Page Settings"
+msgstr "Impostazioni pagina personalizzate"
+
+#: it-framework/classes/it-meta-boxes.class.php:269
+msgid "Choose sidebar:"
+msgstr ""
+
+#: it-framework/classes/it-meta-boxes.class.php:273
+msgid "default"
+msgstr "difetto"
+
+#: it-framework/classes/it-meta-boxes.class.php:282
+msgid "Sidebar Style:"
+msgstr ""
+
+#: it-framework/classes/it-meta-boxes.class.php:286
+msgid "Inherit from theme options"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:1645
+msgid "Add unlimited nav menu locations."
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:2418
+msgid "Font-Family Name"
+msgstr ""
+
+#: it-framework/config/it-framework-config.php:3068
+msgid ""
+"Add unlimited sidebars the go to <a href=\"widgets.php\">Widgets</a> to add "
+"widgets for it."
+msgstr ""
+
+#: it-framework/includes/it-comments.php:37
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di moderazione."
+
+#: it-framework/includes/it-global-functions.php:293
+msgid ""
+"<span aria-hidden=\"true\"><i class=\"fa fa-long-arrow-left main-color\"></"
+"i></span> Older"
+msgstr ""
+
+#: it-framework/includes/it-global-functions.php:294
+msgid ""
+"Newer <span aria-hidden=\"true\"><i class=\"fa fa-long-arrow-right main-color"
+"\"></i></span> "
+msgstr ""
+
+#: it-framework/includes/it-global-functions.php:300
+msgid "No More Posts To Show !!"
+msgstr ""
+
+#: it-framework/includes/it-global-functions.php:659
+msgid ""
+"Please go to admin panel > Menus > select Main menu and add items to it."
+msgstr ""
+
+#: it-framework/includes/it-global-functions.php:914
+#: it-framework/includes/it-global-functions.php:980
+#: it-framework/plugins/woocommerce/it-woocommerce.php:81
+msgid "Your Shopping cart is empty."
+msgstr "Il tuo carrello è vuoto."
+
+#: it-framework/includes/it-global-functions.php:921
+#: it-framework/includes/it-global-functions.php:987
+#: it-framework/plugins/woocommerce/it-woocommerce.php:88
+msgid "Subtotal"
+msgstr "Totale parziale"
+
+#: it-framework/includes/it-global-functions.php:924
+#: it-framework/includes/it-global-functions.php:990
+#: it-framework/plugins/woocommerce/it-woocommerce.php:91
+msgid "View Cart"
+msgstr "Visualizza carrello"
+
+#: it-framework/includes/it-global-functions.php:925
+#: it-framework/includes/it-global-functions.php:991
+#: it-framework/plugins/woocommerce/it-woocommerce.php:92
+msgid "Checkout"
+msgstr "Check-Out"
+
+#: it-framework/includes/it-post-formats.php:57
+msgid "Gallery"
+msgstr "Galleria"
+
+#: it-framework/includes/it-post-formats.php:61
+msgid "Link"
+msgstr "Collegamento"
+
+#: it-framework/includes/it-post-formats.php:65
+msgid "Image"
+msgstr "Immagine"
+
+#: it-framework/includes/it-post-formats.php:69
+msgid "Quote"
+msgstr "Preventivo"
+
+#: it-framework/includes/it-post-formats.php:73
+#: it-framework/includes/it-post-formats.php:77
+#: it-framework/includes/it-post-formats.php:81
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2645
+msgid "Status"
+msgstr "Stato"
+
+#: it-framework/includes/it-post-formats.php:85
+msgid "Chat"
+msgstr "Chiacchierare"
+
+#: it-framework/includes/it-post-formats.php:89
+msgid "Aside"
+msgstr "A parte"
+
+#: it-framework/includes/it-post-formats.php:93
+msgid "Standard"
+msgstr "Standard"
+
+#: it-framework/includes/it-post-formats.php:419
+#: it-framework/includes/it-post-formats.php:448
+msgid "By: "
+msgstr ""
+
+#: it-framework/includes/it-post-formats.php:424
+#: it-framework/includes/it-post-formats.php:457
+#: layout/post-formats/content-download.php:21
+msgid "Categories: "
+msgstr "Categorie: "
+
+#: it-framework/includes/it-post-formats.php:452
+msgid "On: "
+msgstr ""
+
+#: it-framework/includes/it-post-formats.php:466
+msgid "Leave a comment"
+msgstr "Lascia un commento"
+
+#: it-framework/includes/it-post-formats.php:490
+msgid "SlideShow ?"
+msgstr "SlideShow?"
+
+#: it-framework/includes/it-post-like.php:159
+msgid "Like"
+msgstr ""
+
+#: it-framework/includes/it-post-like.php:159
+msgid "Unlike"
+msgstr ""
+
+#: it-framework/includes/menu/menu-custom-fields.php:14
+msgid "Megamenu"
+msgstr ""
+
+#: it-framework/includes/menu/menu-custom-fields.php:15
+msgid "Column"
+msgstr ""
+
+#: it-framework/includes/menu/menu-custom-fields.php:16
+#: it-framework/includes/menu/menu-custom-fields.php:115
+msgid "Add Widget"
+msgstr ""
+
+#: it-framework/includes/menu/menu-custom-fields.php:17
+#: it-framework/includes/menu/menu-custom-fields.php:139
+msgid "Hide Menu Label"
+msgstr ""
+
+#: it-framework/includes/menu/menu-custom-fields.php:18
+msgid "Icon"
+msgstr ""
+
+#: it-framework/includes/menu/menu-custom-fields.php:19
+#: it-framework/includes/menu/menu-custom-fields.php:85
+msgid "Hint"
+msgstr "Suggerimento"
+
+#: it-framework/includes/menu/menu-custom-fields.php:20
+#: it-framework/includes/menu/menu-custom-fields.php:95
+msgid "Hint Type"
+msgstr "Suggerimento Type"
+
+#: it-framework/includes/menu/menu-custom-fields.php:55
+msgid "Mega Menu"
+msgstr "Mega Menu"
+
+#: it-framework/includes/menu/menu-custom-fields.php:66
+msgid "Columns"
+msgstr ""
+
+#: it-framework/includes/menu/menu-custom-fields.php:117
+msgid "-- Select Widget Area --"
+msgstr ""
+
+#: it-framework/plugins/bbpress/bbpress.php:8
+msgid "You Are In:"
+msgstr "Vous êtes dans:"
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3250
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2364
+msgid "Required"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2367
+msgid "Recommended"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2383
+msgid "WordPress Repository"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2386
+msgid "External Source"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2389
+msgid "Pre-Packaged"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2406
+msgid "Not Installed"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2410
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2412
+msgid "Active"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2418
+msgid "Required Update not Available"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2421
+msgid "Requires Update"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2424
+msgid "Update recommended"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2581
+msgid "Installed version:"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2589
+msgid "Minimum required version:"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2601
+msgid "Available version:"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2638
+msgid "Plugin"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2639
+msgid "Source"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2640
+msgid "Type"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2644
+msgid "Version"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2694
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2705
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2808
+msgid "Install"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2814
+msgid "Update"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2817
+msgid "Activate"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2848
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2891
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3249
+msgid "Plugin activation failed."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3589
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3598
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3600
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3601
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3606
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3609
+msgid "All installations have been completed."
+msgstr ""
+
+#: it-framework/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3611
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: it-framework/widgets/it-widget-contact.php:12
+msgid "- Contact info"
+msgstr ""
+
+#: it-framework/widgets/it-widget-contact.php:65
+msgid "Subscribe to our NewsLetters:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-contact.php:88
+#: it-framework/widgets/it-widget-cta.php:46
+#: it-framework/widgets/it-widget-flickr.php:52
+#: it-framework/widgets/it-widget-footer-social-icons.php:39
+#: it-framework/widgets/it-widget-logo-text.php:51
+#: it-framework/widgets/it-widget-recent-posts.php:136
+#: it-framework/widgets/it-widget-shortcode.php:41
+#: it-framework/widgets/it-widget-side-banners.php:42
+#: it-framework/widgets/it-widget-tweets-widget.php:44
+msgid "Title:"
+msgstr "Titre:"
+
+#: it-framework/widgets/it-widget-contact.php:92
+#: it-framework/widgets/it-widget-footer-social-icons.php:43
+msgid "Footer text:"
+msgstr "texte de pied de page:"
+
+#: it-framework/widgets/it-widget-contact.php:96
+msgid "NewsLetters:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-cta.php:50
+#: it-framework/widgets/it-widget-logo-text.php:60
+msgid "Text:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-cta.php:54
+msgid "Button Text:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-cta.php:58
+msgid "Button Link:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-flickr.php:13
+msgid "- Flickr Feed"
+msgstr ""
+
+#: it-framework/widgets/it-widget-flickr.php:56
+msgid "Content:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-flickr.php:60
+msgid "Flickr ID:"
+msgstr "Flickr ID:"
+
+#: it-framework/widgets/it-widget-flickr.php:64
+msgid "Limit:"
+msgstr "Limite:"
+
+#: it-framework/widgets/it-widget-logo-text.php:55
+msgid "image:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-recent-posts.php:139
+msgid "Number of posts to show:"
+msgstr "Nombre de messages pour afficher:"
+
+#: it-framework/widgets/it-widget-recent-posts.php:143
+msgid "Display post date?"
+msgstr "Affichage de la date de poste?"
+
+#: it-framework/widgets/it-widget-shortcode.php:12
+msgid "- Shortcode Widget"
+msgstr ""
+
+#: it-framework/widgets/it-widget-shortcode.php:45
+msgid "Shortcode:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-side-banners.php:13
+msgid "- Side Banners"
+msgstr ""
+
+#: it-framework/widgets/it-widget-side-banners.php:46
+msgid "Banner Link:"
+msgstr "Bannière lien:"
+
+#: it-framework/widgets/it-widget-side-banners.php:50
+msgid "Image:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-tweets-widget.php:12
+msgid "- Latest Tweets"
+msgstr ""
+
+#: it-framework/widgets/it-widget-tweets-widget.php:49
+msgid "Twitter User:"
+msgstr ""
+
+#: it-framework/widgets/it-widget-tweets-widget.php:54
+msgid "Visible Tweets:"
+msgstr ""
+
+#: layout/blog/blog-grid.php:49 layout/blog/blog-lg-image.php:68
+#: layout/blog/blog-masonry.php:49 layout/blog/blog-small-image.php:40
+#: layout/blog/blog-timeline.php:58 layout/blog/related-posts.php:20
+msgid "Permanent Link to"
+msgstr "Collegamento permanente a"
+
+#: layout/blog/blog-grid.php:61 layout/blog/blog-lg-image.php:83
+#: layout/blog/blog-masonry.php:61 layout/blog/blog-small-image.php:52
+#: layout/blog/blog-timeline.php:71
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: layout/blog/related-posts.php:16 layout/portfolio/related-projects.php:24
+msgid "Related"
+msgstr ""
+
+#: layout/blog/related-posts.php:16
+msgid "Posts"
+msgstr "Messages"
+
+#: layout/headers/top-bar.php:160
+msgid "No menu selected! Please select menu first."
+msgstr ""
+
+#: layout/headers/top-bar.php:213
+msgid "Register"
+msgstr "Register"
+
+#: layout/heads/maintenance-header.php:99 layout/heads/soon-header.php:131
+#: layout/others/maintenance.php:96 layout/others/soon.php:127
+msgid "Subscribe to our NewsLetters"
+msgstr ""
+
+#: layout/heads/maintenance-header.php:109 layout/others/maintenance.php:106
+msgid "You Can Find Us Here:"
+msgstr ""
+
+#: layout/portfolio/portfolio-1.php:47 layout/portfolio/portfolio-2.php:46
+#: layout/portfolio/portfolio-3.php:65
+msgid "Project"
+msgstr ""
+
+#: layout/portfolio/portfolio-1.php:47 layout/portfolio/portfolio-2.php:46
+#: layout/portfolio/portfolio-3.php:65
+msgid "Info"
+msgstr ""
+
+#: layout/portfolio/portfolio-1.php:52 layout/portfolio/portfolio-2.php:51
+#: layout/portfolio/portfolio-3.php:69
+msgid "Category: "
+msgstr ""
+
+#: layout/portfolio/portfolio-1.php:57 layout/portfolio/portfolio-2.php:56
+#: layout/portfolio/portfolio-3.php:74
+msgid "Added By:"
+msgstr "Inserito da:"
+
+#: layout/portfolio/portfolio-1.php:62 layout/portfolio/portfolio-2.php:61
+#: layout/portfolio/portfolio-3.php:79
+msgid "Date Added:"
+msgstr "Data Aggiunta:"
+
+#: layout/portfolio/portfolio-1.php:70 layout/portfolio/portfolio-2.php:69
+#: layout/portfolio/portfolio-3.php:87
+msgid "Tags:"
+msgstr "Tags:"
+
+#: layout/portfolio/portfolio-1.php:89 layout/portfolio/portfolio-2.php:88
+#: layout/portfolio/portfolio-3.php:106
+msgid "Share this post on:"
+msgstr "Condividi questo post su:"
+
+#: layout/portfolio/portfolio-1.php:125 layout/portfolio/portfolio-2.php:124
+#: layout/portfolio/portfolio-3.php:46
+msgid "Case"
+msgstr ""
+
+#: layout/portfolio/portfolio-1.php:125 layout/portfolio/portfolio-2.php:124
+#: layout/portfolio/portfolio-3.php:46
+msgid "Study"
+msgstr ""
+
+#: layout/portfolio/related-projects.php:24
+msgid "Projects"
+msgstr ""
+
+#: layout/portfolio/related-projects.php:89
+msgid "No Related Projects were found."
+msgstr ""
+
+#: layout/post-formats/content-aside.php:130
+#: layout/post-formats/content-audio.php:114
+#: layout/post-formats/content-chat.php:130
+#: layout/post-formats/content-gallery.php:122
+#: layout/post-formats/content-image.php:114
+#: layout/post-formats/content-link.php:133
+#: layout/post-formats/content-quote.php:130
+#: layout/post-formats/content-status.php:130
+#: layout/post-formats/content-video.php:117
+#: layout/post-formats/content.php:130
+msgid "Please Install Bookra Shortcodes Plugin to enable Social Sharing."
+msgstr ""
+
+#: layout/post-formats/content-aside.php:138
+#: layout/post-formats/content-audio.php:122
+#: layout/post-formats/content-chat.php:138
+#: layout/post-formats/content-gallery.php:130
+#: layout/post-formats/content-image.php:122
+#: layout/post-formats/content-link.php:141
+#: layout/post-formats/content-quote.php:138
+#: layout/post-formats/content-status.php:138
+#: layout/post-formats/content-video.php:125
+#: layout/post-formats/content.php:138
+msgid "&larr; Previous post"
+msgstr ""
+
+#: layout/post-formats/content-aside.php:139
+#: layout/post-formats/content-audio.php:123
+#: layout/post-formats/content-chat.php:139
+#: layout/post-formats/content-gallery.php:131
+#: layout/post-formats/content-image.php:123
+#: layout/post-formats/content-link.php:142
+#: layout/post-formats/content-quote.php:139
+#: layout/post-formats/content-status.php:139
+#: layout/post-formats/content-video.php:126
+#: layout/post-formats/content.php:139
+msgid "Next post &rarr;"
+msgstr ""
+
+#: layout/post-formats/content-download.php:19
+msgid "Published on:"
+msgstr "Pubblicato il:"
+
+#: layout/post-formats/content-download.php:20
+msgid "By:"
+msgstr "By:"
+
+#: layout/post-formats/content-download.php:23
+msgid "Edit"
+msgstr "Modifica"
+
+#: layout/post-formats/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: layout/post-formats/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: layout/post-formats/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:25
+msgid "Classic"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:26
+msgid "Modern"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:27
+msgid "Flat"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:28
+msgid "Outline"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:37
+msgid "Rounded"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:38
+msgid "Square"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:39
+msgid "Round"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:63
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:84
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:125
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:153
+msgid "None"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:104
+msgid "Top"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:105
+msgid "Bottom"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:114
+msgid "Left"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:115
+msgid "Right"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:116
+msgid "Center"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:154
+msgid "Square Dots"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:155
+msgid "Radio Dots"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:156
+msgid "Point Dots"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:157
+msgid "Fill Square Dots"
+msgstr ""
+
+#: layout/vc_templates/shortcode-vc-tta-tabs.php:158
+msgid "Rounded Fill Square Dots"
+msgstr ""
+
+#: search.php:67
+msgid "The Page You Are Looking for can not Be Found."
+msgstr "La pagina che stai cercando non può essere trovata."
+
+#: searchform.php:5
+msgid "Enter search keyword here..."
+msgstr "Inserisci ricerca per parola chiave qui ..."
+
+#: woocommerce/content-product.php:56
+msgid "View Product"
+msgstr ""
+
+#~ msgid "Comment navigation"
+#~ msgstr "Commento di navigazione"
+
+#~ msgid "Click OK to reset. Any theme settings will be lost!"
+#~ msgstr ""
+#~ "Fare clic su OK per ripristinare. Tutte le impostazioni tema saranno "
+#~ "perse!"
+
+#~ msgid "Browse"
+#~ msgstr "Sfogliare"
+
+#~ msgid "Read more"
+#~ msgstr "Per saperne di più"
+
+#~ msgid "&laquo; Older"
+#~ msgstr "& Laquo; Maggiore"
+
+#~ msgid "Newer &raquo; "
+#~ msgstr "Newer & raquo; "
+
+#~ msgid "Edit Menu Item"
+#~ msgstr "Modifica elemento Menu"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Navigation Label"
+#~ msgstr "Navigation Label"
+
+#~ msgid "Title Attribute"
+#~ msgstr "Titolo Attributo"
+
+#~ msgid "Open link in a new window/tab"
+#~ msgstr "Apri il link in una nuova finestra / scheda"
+
+#~ msgid "CSS Classes (optional)"
+#~ msgstr "Le classi CSS (optional)"
+
+#~ msgid "Link Relationship (XFN)"
+#~ msgstr "Relazioni Link (XFN)"
+
+#~ msgid "Description"
+#~ msgstr "Descrizione"
+
+#~ msgid ""
+#~ "The description will be displayed in the menu if the current theme "
+#~ "supports it."
+#~ msgstr ""
+#~ "La descrizione sarà visualizzato nel menu se il tema corrente supporta."
+
+#~ msgid "Megamenu column"
+#~ msgstr "Colonna Megamenu"
+
+#~ msgid "Move"
+#~ msgstr "Mossa"
+
+#~ msgid "Up one"
+#~ msgstr "Su di un"
+
+#~ msgid "Down one"
+#~ msgstr "Giù uno"
+
+#~ msgid "To the top"
+#~ msgstr "Verso l'alto"
+
+#~ msgid "Remove"
+#~ msgstr "Rimuovere"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancellare"
+
+#~ msgid "* Flickr Feed"
+#~ msgstr "* Flickr RSS"
+
+#~ msgid "* Side Banners"
+#~ msgstr "* Bannières secondaires"
+
+#~ msgid "* Latest Tweets"
+#~ msgstr "* Derniers Tweets"
+
+#~ msgid "1 Comment"
+#~ msgstr "1 Comment"
+
+#~ msgid "% Comments"
+#~ msgstr "% Commenti"
+
+#~ msgid ""
+#~ "Please go to admin panel > Menus > select top- menu and add items to it."
+#~ msgstr ""
+#~ "Per favore, vai a pannello di amministrazione> Menu> selezionare il menu "
+#~ "superiore e aggiungervi elementi."
+
+#~ msgid "GO"
+#~ msgstr "GO"
+
+#~ msgid "Email: "
+#~ msgstr "Email: "
+
+#~ msgid "Nice Name: "
+#~ msgstr "Bel Nome: "
+
+#~ msgid "Website: "
+#~ msgstr "Sito web: "
+
+#~ msgid "Registered On :"
+#~ msgstr "Registrato il:"
+
+#~ msgid "Logged in at: "
+#~ msgstr "Collegato a: "
+
+#~ msgid "Author ID: "
+#~ msgstr "Autore ID: "
+
+#~ msgid "Author Posts"
+#~ msgstr "Autore Messaggi"
+
+#~ msgid "Default Field"
+#~ msgstr "Campo di default"
+
+#~ msgid "This is a default description."
+#~ msgstr "Questa è una descrizione predefinita."
+
+#~ msgid "Theme options updated."
+#~ msgstr "Opzioni tema aggiornati."
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s a %2$s"
+
+#~ msgid "(Edit)"
+#~ msgstr "(Edit)"
+
+#~ msgid "No Comments"
+#~ msgstr "Nessun Commento"
+
+#~ msgid "Comments Off"
+#~ msgstr "Commenti disabilitati"
+
+#~ msgid "Enter your password to view comments."
+#~ msgstr "Inserisci la tua password per visualizzare i commenti."
+
+#~ msgid "Comment on %s"
+#~ msgstr "Commenta %s"
+
+#~ msgid "Load more"
+#~ msgstr "Carica altro"
+
+#~ msgid "Daily Archives:"
+#~ msgstr "Daily Archives:"
+
+#~ msgid "Monthly Archives:"
+#~ msgstr "Archivio mensile:"
+
+#~ msgid "Yearly Archives:"
+#~ msgstr "Archivi annuali:"
+
+#~ msgid ""
+#~ "Please go to admin panel > Menus > select Global menu and add items to it."
+#~ msgstr ""
+#~ "Per favore, vai a pannello di amministrazione> Menu> selezionare il menu "
+#~ "globale e aggiungere elementi ad esso."
+
+#~ msgid "Top Bar Links"
+#~ msgstr "Top Bar Links"
+
+#~ msgid "One Page Menu"
+#~ msgstr "One Page Menu"
+
+#~ msgid "Bottom Footer Menu Links"
+#~ msgstr "In basso Footer Menu Links"
+
+#~ msgid "Sticky"
+#~ msgstr "Appiccicoso"
+
+#~ msgid "%s (Invalid)"
+#~ msgstr "%s (non valido)"
+
+#~ msgid "%s (Pending)"
+#~ msgstr "%s (Pending)"
+
+#~ msgid "Original: %s"
+#~ msgstr "Originale: %s"
+
+#~ msgid "User name Or Email"
+#~ msgstr "Nome utente o email"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Login"
+#~ msgstr "Login"
+
+#~ msgid "Remember me !"
+#~ msgstr "Ricordati di me!"
+
+#~ msgid "Please Install and Activate WPML Plugin"
+#~ msgstr "Si prega di installare e attivare WPML Plugin"
+
+#~ msgid "Welcome"
+#~ msgstr "Benvenuto"
+
+#~ msgid "Log out of this account"
+#~ msgstr "Uscire da questo account"
+
+#~ msgid "Log Out"
+#~ msgstr "Uscire"
+
+#~ msgid "Read More"
+#~ msgstr "Per Saperne Di Più"
+
+#~ msgid "Not Found"
+#~ msgstr "Non Trovato"
+
+#~ msgid "Sorry, but you are looking for something that is not here."
+#~ msgstr "Ci dispiace, ma stai cercando qualcosa che non è qui."
+
+#~ msgid "About Author"
+#~ msgstr "Chi Autore"
+
+#~ msgid "Get in Touch"
+#~ msgstr "Entrare in contatto"
+
+#~ msgid "Contact Details"
+#~ msgstr "Dettagli Del Contatto"
+
+#~ msgid "<b>EXCEPTION</b> - Theme options"
+#~ msgstr "<b>EXCEPTION</b> - Opzioni del tema"
+
+#~ msgid "You Are Editing in ( <strong>"
+#~ msgstr "Si sta modificando a (<strong>"
+
+#~ msgid "Search results for: "
+#~ msgstr "Cerca risultati per: "
+
+#~ msgid "Office"
+#~ msgstr "Ufficio"
+
+#~ msgid "Address"
+#~ msgstr "Indirizzo"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Phone"
+#~ msgstr "Telefono"
+
+#~ msgid "FAX"
+#~ msgstr "FAX"
+
+#~ msgid "Global Menu"
+#~ msgstr "Globale Menu"
+
+#~ msgid "Related Posts"
+#~ msgstr "Posts Related"
+
+#~ msgid "Posted on:"
+#~ msgstr "Postato su:"
+
+#~ msgid "Related Projects"
+#~ msgstr "Progetti correlati"
+
+#~ msgid "Call Us:"
+#~ msgstr "Chiamaci:"
+
+#~ msgid "Daily Archives"
+#~ msgstr "Daily Archives"
+
+#~ msgid "Monthly Archives"
+#~ msgstr "Archivio mensile"
+
+#~ msgid "Yearly Archives"
+#~ msgstr "Archivi annuali"
+
+#~ msgid "Archives"
+#~ msgstr "Archivio"
+
+#~ msgid "Welcome to the Profile page for"
+#~ msgstr "Benvenuto nella pagina di profilo dell'utente"
+
+#~ msgid "Tag Archives: %s"
+#~ msgstr "Tag Archives: %s"
+
+#~ msgid "Search Results for: %s"
+#~ msgstr "Risultati della ricerca per: %s"
+
+#~ msgid "Sorry but no results can not Be Found."
+#~ msgstr "Purtroppo nessun risultato non può essere trovato."
+
+#~ msgid "Project Info"
+#~ msgstr "Info Progetto"
+
+#~ msgid "Category:"
+#~ msgstr "Categoria:"
+
+#~ msgid "Project Details"
+#~ msgstr "Progetto Dettagli"
+
+#~ msgid "Post navigation"
+#~ msgstr "Messaggio di navigazione"
+
+#~ msgid "Section"
+#~ msgstr "Sezione"
+
+#~ msgid "Empty section. Edit page to add content here."
+#~ msgstr "Sezione vuota. Modifica pagina per aggiungere contenuto qui."
+
+#~ msgid "Text on the button"
+#~ msgstr "Testo sul pulsante"
+
+#~ msgid "Previous tab"
+#~ msgstr "Scheda precedente"
+
+#~ msgid "Next tab"
+#~ msgstr "Scheda successiva"
+
+#~ msgid "Click to toggle"
+#~ msgstr "Clicca per attivare"
+
+#~ msgid "(No Forum)"
+#~ msgstr "(Non Forum)"
+
+#~ msgid "(No Parent)"
+#~ msgstr "(Sans parents)"
+
+#~ msgid "* Footer Social icons"
+#~ msgstr "* icônes Pied sociaux"
+
+#~ msgid "* Recent Posts"
+#~ msgstr "* Les messages récents"
+
+#~ msgid "<strong>WARNING:</strong> This process cannot be undone."
+#~ msgstr ""
+#~ "<Strong> ATTENTION: </ strong> Ce processus ne peut pas être annulée."
+
+#~ msgid "About Yourself"
+#~ msgstr "À propos Yourself"
+
+#~ msgid "About the user"
+#~ msgstr "A propos de l'utilisateur"
+
+#~ msgid "Account"
+#~ msgstr "Compte"
+
+#~ msgid "Add Banners on the sidebars."
+#~ msgstr "Ajouter Bannières sur les barres latérales."
+
+#~ msgid "Add Text or HTML at the end of auther page."
+#~ msgstr "Ajouter du texte ou HTML à la fin de auther page."
+
+#~ msgid "Add Text or HTML at the top of auther page."
+#~ msgstr "Ajouter du texte ou HTML dans le haut de auther page."
+
+#~ msgid "Author Posts Listing Style"
+#~ msgstr "Auteur Messages style de la liste"
+
+#~ msgid "Authors Page Settings"
+#~ msgstr "Auteurs page Paramètres"
+
+#~ msgid "Banners"
+#~ msgstr "Bannières"
+
+#~ msgid "Biographical Info"
+#~ msgstr "Infos biographiques"
+
+#~ msgid "Check the box to Show/Hide the author Posts."
+#~ msgstr "Cochez la case pour afficher / masquer les auteurs de messages."
+
+#~ msgid "Check the box to Show/Hide the author info."
+#~ msgstr "Cochez la case pour afficher / cacher l'auteur d'info."
+
+#~ msgid "Check the box to Show/Hide the top bar above header."
+#~ msgstr ""
+#~ "Cochez la case pour afficher / masquer la barre supérieure ci-dessus tête."
+
+#~ msgid "Contact Info"
+#~ msgstr "Coordonnées"
+
+#~ msgid "Content After"
+#~ msgstr "Après contenu"
+
+#~ msgid "Content Before"
+#~ msgstr "Contenu Avant"
+
+#~ msgid "Copy favoriters to the new topic"
+#~ msgstr "Copiez favoriters le nouveau sujet"
+
+#~ msgid "Copy subscribers to the new topic"
+#~ msgstr "Copiez abonnés au nouveau sujet"
+
+#~ msgid "Copy topic tags to the new topic"
+#~ msgstr "Copiez balises sujet du nouveau sujet"
+
+#~ msgid "Create New Forum"
+#~ msgstr "Créer un nouveau Forum"
+
+#~ msgid "Create New Forum in &ldquo;%s&rdquo;"
+#~ msgstr "Créer un nouveau Forum de & ldquo; %s & rdquo;"
+
+#~ msgid "Create New Topic"
+#~ msgstr "Créer un nouveau sujet"
+
+#~ msgid "Create New Topic in &ldquo;%s&rdquo;"
+#~ msgstr "Créer un nouveau sujet dans le & ldquo; %s & rdquo;"
+
+#~ msgid "Custom CSS"
+#~ msgstr "CSS personnalisé"
+
+#~ msgid "Custom Height"
+#~ msgstr "Hauteur personnalisée"
+
+#~ msgid "Custom javascript"
+#~ msgstr "JavaScript personnalisé"
+
+#~ msgid "Display Name"
+#~ msgstr "Nom D'Affichage"
+
+#~ msgid "Email Address"
+#~ msgstr "Adresse e-mail"
+
+#~ msgid "Favicon"
+#~ msgstr "Favicon"
+
+#~ msgid "Favorite Forum Topics"
+#~ msgstr "Favorites Forum Sujets"
+
+#~ msgid "Favorites"
+#~ msgstr "Favoris"
+
+#~ msgid "First Name"
+#~ msgstr "Prénom"
+
+#~ msgid "Flickr Feed"
+#~ msgstr "Flickr RSS"
+
+#~ msgid "Flickr feed"
+#~ msgstr "RSS Flickr"
+
+#~ msgid "Flickr feed widget."
+#~ msgstr "Widget feed Flickr."
+
+#~ msgid "Footer Logo:"
+#~ msgstr "Footer Logo:"
+
+#~ msgid "Footer Social icons widget."
+#~ msgstr "Icônes footer sociales widget."
+
+#~ msgid "Forum"
+#~ msgstr "Forum"
+
+#~ msgid "Forum Name (Maximum Length: %d):"
+#~ msgstr "Forum Nom (Longueur maximale: %d ):"
+
+#~ msgid "Forum Replies Created"
+#~ msgstr "Forum Réponses Créé"
+
+#~ msgid "Forum Role: %s"
+#~ msgstr "Forum Rôle: %s"
+
+#~ msgid "Forum Topics Started"
+#~ msgstr "Forum de discussion commencés"
+
+#~ msgid "Forum Type:"
+#~ msgstr "Type de Forum:"
+
+#~ msgid "Forum:"
+#~ msgstr "Forum:"
+
+#~ msgid "Forum: "
+#~ msgstr "Forum: "
+
+#~ msgid "Freshness"
+#~ msgstr "Fraîcheur"
+
+#~ msgid "Google Analytics - Tracking Code"
+#~ msgstr "Google Analytics - code de suivi"
+
+#~ msgid "Grant this user super admin privileges for the Network."
+#~ msgstr ""
+#~ "Accorder cette super-utilisateur des privilèges d'administrateur pour le "
+#~ "Réseau."
+
+#~ msgid "Header Layouts"
+#~ msgstr "Header Layouts"
+
+#~ msgid "Header settings"
+#~ msgstr "paramètres d'en-tête"
+
+#~ msgid ""
+#~ "Hello our valued visitor, We present you the best web solutions and high "
+#~ "quality graphic designs with a lot of features. just login to your "
+#~ "account and enjoy ..."
+#~ msgstr ""
+#~ "Bonjour notre visiteur valeur, Nous vous présentons les meilleures "
+#~ "solutions web et conceptions graphiques de haute qualité avec beaucoup de "
+#~ "fonctionnalités. simplement vous connecter à votre compte et profiter ..."
+
+#~ msgid "Home"
+#~ msgstr "Maison"
+
+#~ msgid ""
+#~ "If you use the existing topic option, replies within both topics will be "
+#~ "merged chronologically. The order of the merged replies is based on the "
+#~ "time and date they were posted."
+#~ msgstr ""
+#~ "Si vous utilisez l'option de sujet existant, réponses dans les deux "
+#~ "sujets seront fusionnés chronologiquement. L'ordre des réponses "
+#~ "fusionnées est basée sur l'heure et la date ils ont été postés."
+
+#~ msgid ""
+#~ "If you would like to change the password type a new one. Otherwise leave "
+#~ "this blank."
+#~ msgstr ""
+#~ "Si vous souhaitez modifier le mot de passe de type un nouveau. Sinon, "
+#~ "laissez ce champ vide."
+
+#~ msgid "Keep a log of this edit:"
+#~ msgstr "Tenir un journal de cette édition:"
+
+#~ msgid "Last Name"
+#~ msgstr "Nom De Famille"
+
+#~ msgid "Last updated %s"
+#~ msgstr "Dernière mise à jour %s"
+
+#~ msgid "Latest Tweets"
+#~ msgstr "Derniers Tweets"
+
+#~ msgid "Latest tweets widget."
+#~ msgstr "Derniers tweets widget."
+
+#~ msgid "Logo settings"
+#~ msgstr "paramètres de Logo"
+
+#~ msgid "Name"
+#~ msgstr "Nom"
+
+#~ msgid "Network Role"
+#~ msgstr "Rôle du réseau"
+
+#~ msgid "New Password"
+#~ msgstr "Nouveau Mot De Passe"
+
+#~ msgid "New topic in <strong>%s</strong> titled:"
+#~ msgstr "Nouveau sujet <strong> %s </ strong> intitulé:"
+
+#~ msgid "Nickname"
+#~ msgstr "Surnom"
+
+#~ msgid "Notify me of follow-up replies via email"
+#~ msgstr "Avertissez-moi des réponses de suivi par e-mail"
+
+#~ msgid "Notify the author of follow-up replies via email"
+#~ msgstr "Informe l'auteur de réponses de suivi par e-mail"
+
+#~ msgid "Now Editing &ldquo;%s&rdquo;"
+#~ msgstr "Maintenant Editing & ldquo; %s & rdquo;"
+
+#~ msgid "Office Location"
+#~ msgstr "Emplacement du bureau"
+
+#~ msgid "Oh bother! No forums were found here!"
+#~ msgstr "Oh la peine! Pas de forums ont été trouvés ici!"
+
+#~ msgid "Oh bother! No replies were found here!"
+#~ msgstr "Oh la peine! Aucune réponse n'a été trouvé ici!"
+
+#~ msgid "Oh bother! No topics were found here!"
+#~ msgstr "Oh la peine! Aucun sujet n'a été trouvé ici!"
+
+#~ msgid "Optional reason for editing:"
+#~ msgstr "Raison option pour l'édition:"
+
+#~ msgid "Other"
+#~ msgstr "Autre"
+
+#~ msgid "Page Title Style"
+#~ msgstr "Titre de la page style"
+
+#~ msgid "Parent Forum:"
+#~ msgstr "Forum Parent:"
+
+#~ msgid "Phone Number"
+#~ msgstr "numéro de téléphone"
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "Recent Posts"
+#~ msgstr "Messages récents"
+
+#~ msgid "Replies Created"
+#~ msgstr "Réponses Créé"
+
+#~ msgid "Replies Created: %s"
+#~ msgstr "Réponses Créé: %s"
+
+#~ msgid "Reply To: %s"
+#~ msgstr "Répondre: %s"
+
+#~ msgid "Search results for &ldquo;"
+#~ msgstr "Résultats de la recherche pour & quot;"
+
+#~ msgid "Search results for:"
+#~ msgstr "Résultats de la recherche pour:"
+
+#~ msgid "Select your prefered Author Posts listing style."
+#~ msgstr "Choisissez votre style de la liste des messages préférees Auteur."
+
+#~ msgid "Show Author Info"
+#~ msgstr "Afficher Auteur Infos"
+
+#~ msgid "Show Author Posts"
+#~ msgstr "Afficher Auteur Messages"
+
+#~ msgid "Show top bar"
+#~ msgstr "Afficher la barre supérieure"
+
+#~ msgid "Site Slogan"
+#~ msgstr "Slogan du site"
+
+#~ msgid "Social Icons"
+#~ msgstr "Social Icons"
+
+#~ msgid "Split Method"
+#~ msgstr "Méthode de Split"
+
+#~ msgid "Split topic \"%s\""
+#~ msgstr "\"De Split sujet\" %s"
+
+#~ msgid "Split: %s"
+#~ msgstr "De Split: %s"
+
+#~ msgid "Started by: %1$s"
+#~ msgstr "Démarré par: %1$s"
+
+#~ msgid "Status:"
+#~ msgstr "Statut:"
+
+#~ msgid "Submit"
+#~ msgstr "Soumettre"
+
+#~ msgid "Subscribed Forums"
+#~ msgstr "Les forums suivis"
+
+#~ msgid "Subscribed Topics"
+#~ msgstr "Sujets souscrites"
+
+#~ msgid "Subscriptions"
+#~ msgstr "Abonnements"
+
+#~ msgid "Tags Limit"
+#~ msgstr "Mots clés Limit"
+
+#~ msgid "The forum &#8216;%s&#8217; is closed to new content."
+#~ msgstr "Le forum & # 8216; %s & # 8217; est fermé aux nouveaux contenus."
+
+#~ msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+#~ msgstr ""
+#~ "Le forum & # 8216; %s & # 8217; est fermée aux nouveaux sujets et des "
+#~ "réponses."
+
+#~ msgid "The limit of tweets number that will be retrieved from twitter."
+#~ msgstr "La limite de nombre de tweets qui seront extraites de twitter."
+
+#~ msgid "The topic &#8216;%s&#8217; is closed to new replies."
+#~ msgstr "Le thème & # 8216; %s & # 8217; est fermée aux nouveaux réponses."
+
+#~ msgid ""
+#~ "This forum is closed to new content, however your account still allows "
+#~ "you to do so."
+#~ msgstr ""
+#~ "Ce forum est fermé aux nouveaux contenus, mais votre compte vous permet "
+#~ "toujours de le faire."
+
+#~ msgid ""
+#~ "This forum is marked as closed to new topics, however your posting "
+#~ "capabilities still allow you to do so."
+#~ msgstr ""
+#~ "Ce forum est marqué comme fermé aux nouveaux sujets, cependant, vos "
+#~ "capacités d'affichage permettent encore vous de le faire."
+
+#~ msgid ""
+#~ "This topic is marked as closed to new replies, however your posting "
+#~ "capabilities still allow you to do so."
+#~ msgstr ""
+#~ "Ce sujet est marqué comme fermé aux nouvelles réponses, cependant, vos "
+#~ "capacités d'affichage permettent encore vous de le faire."
+
+#~ msgid "This user has no favorite topics."
+#~ msgstr "Cet utilisateur n'a pas sujets préférés."
+
+#~ msgid "This user has not created any topics."
+#~ msgstr "Cet utilisateur n'a créé aucun sujets."
+
+#~ msgid "This user has not replied to any topics."
+#~ msgstr "Cet utilisateur n'a pas répondu à tous les sujets."
+
+#~ msgid "This user is not currently subscribed to any forums."
+#~ msgstr "Cet utilisateur ne est pas actuellement abonné à aucun forum."
+
+#~ msgid "This user is not currently subscribed to any topics."
+#~ msgstr "Cet utilisateur ne est pas actuellement abonné à tous les sujets."
+
+#~ msgid "Top Bar Settings"
+#~ msgstr "Top Paramètres de la barre"
+
+#~ msgid "Top Bar Styling"
+#~ msgstr "Top Bar Styling"
+
+#~ msgid "Top bar Right content"
+#~ msgstr "Top barre de contenu Droit"
+
+#~ msgid "Top bar left content"
+#~ msgstr "Barre laissé contenu"
+
+#~ msgid "Topic"
+#~ msgstr "Sujet"
+
+#~ msgid "Topic Extras"
+#~ msgstr "Sujet Extras"
+
+#~ msgid "Topic Status:"
+#~ msgstr "Status Sujet:"
+
+#~ msgid "Topic Tags:"
+#~ msgstr "Topic Tags:"
+
+#~ msgid "Topic Title (Maximum Length: %d):"
+#~ msgstr "Titre du sujet (Longueur maximale: %d ):"
+
+#~ msgid "Topic Type:"
+#~ msgstr "Type de sujet:"
+
+#~ msgid "Topics Started"
+#~ msgstr "Sujets démarrés"
+
+#~ msgid "Topics Started: %s"
+#~ msgstr "Sujets commencés: %s"
+
+#~ msgid "Tweets Limit"
+#~ msgstr "Limite Tweets"
+
+#~ msgid "Twitter API Config"
+#~ msgstr "Twitter API Config"
+
+#~ msgid "Twitter user name"
+#~ msgstr "Nom d'utilisateur Twitter"
+
+#~ msgid "Type your new password again."
+#~ msgstr "Tapez votre nouveau mot de passe."
+
+#~ msgid "Update Profile"
+#~ msgstr "Mise à jour le profil"
+
+#~ msgid "Update User"
+#~ msgstr "Mise à jour utilisateur"
+
+#~ msgid "Use an existing topic in this forum:"
+#~ msgstr "Utilisez un sujet existant dans ce forum:"
+
+#~ msgid "User Role"
+#~ msgstr "Rôle de l'utilisateur"
+
+#~ msgid "Username"
+#~ msgstr "Nom d'utilisateur"
+
+#~ msgid "Visibility:"
+#~ msgstr "Visibilité:"
+
+#~ msgid "Voices"
+#~ msgstr "Voix"
+
+#~ msgid "Website"
+#~ msgstr "Site Web"
+
+#~ msgid "What's Going On?"
+#~ msgstr "Ce qui se passe?"
+
+#~ msgid ""
+#~ "When you split a topic, you are slicing it in half starting with the "
+#~ "reply you just selected. Choose to use that reply as a new topic with a "
+#~ "new title, or merge those replies into an existing topic."
+#~ msgstr ""
+#~ "Lorsque vous divisez un sujet, vous tranchez en deux à partir de la "
+#~ "réponse que vous venez de sélectionner. Choisissez d'utiliser cette "
+#~ "réponse comme un nouveau sujet avec un nouveau titre, ou de fusionner ces "
+#~ "réponses dans un sujet existant."
+
+#~ msgid "Widget ID"
+#~ msgstr "Widget ID"
+
+#~ msgid "You are not currently subscribed to any forums."
+#~ msgstr "Vous n'êtes pas encore abonné à aucun forum."
+
+#~ msgid "You are not currently subscribed to any topics."
+#~ msgstr "Vous n'êtes pas encore abonné à aucun des sujets."
+
+#~ msgid ""
+#~ "You can upload an ico image that will represent your website identity "
+#~ "(16px x 16px)"
+#~ msgstr ""
+#~ "Vous pouvez télécharger une image ico qui représentera l'identité de "
+#~ "votre site web (16px x 16px)"
+
+#~ msgid "You cannot create new forums."
+#~ msgstr "Vous ne pouvez pas créer de nouveaux forums."
+
+#~ msgid "You cannot create new topics."
+#~ msgstr "Vous ne pouvez pas créer de nouveaux sujets."
+
+#~ msgid "You cannot edit this topic."
+#~ msgstr "Vous ne pouvez pas éditer ce sujet."
+
+#~ msgid "You cannot reply to this topic."
+#~ msgstr "Vous ne pouvez pas répondre à ce sujet."
+
+#~ msgid "You currently have no favorite topics."
+#~ msgstr "Vous ne avez présentement aucun sujets préférés."
+
+#~ msgid "You do not have the permissions to edit this topic!"
+#~ msgstr "Vous ne avez pas les permissions pour éditer ce sujet!"
+
+#~ msgid "You have not created any topics."
+#~ msgstr "Vous ne avez pas créé de sujets."
+
+#~ msgid "You have not replied to any topics."
+#~ msgstr "Vous ne avez pas répondu à tous les sujets."
+
+#~ msgid "You must be logged in to create new forums."
+#~ msgstr "Vous devez être connecté pour créer de nouveaux forums."
+
+#~ msgid "You must be logged in to create new topics."
+#~ msgstr "Vous devez être connecté pour créer de nouveaux sujets."
+
+#~ msgid "You must be logged in to reply to this topic."
+#~ msgstr "Vous devez être connecté pour répondre à ce sujet."
+
+#~ msgid "Your account has the ability to post unrestricted HTML content."
+#~ msgstr ""
+#~ "Votre compte a la capacité d'afficher du contenu HTML sans restriction."
+
+#~ msgid "Your contact Address."
+#~ msgstr "Votre adresse de contact."
+
+#~ msgid "Your contact email address."
+#~ msgstr "Votre adresse email de contact."
+
+#~ msgid "Your contact phone number."
+#~ msgstr "Votre numéro de téléphone de contact."
+
+#~ msgid ""
+#~ "Your password should be at least ten characters long. Use upper and lower "
+#~ "case letters, numbers, and symbols to make it even stronger."
+#~ msgstr ""
+#~ "Votre mot de passe doit être d'au moins dix caractères. Utilisez des "
+#~ "lettres majuscules et minuscules, des chiffres et des symboles pour le "
+#~ "rendre encore plus fort."
+
+#~ msgid "Your site&#8217;s most recent Posts."
+#~ msgstr "Les plus récents messages de; Votre site de & # 8217."
+
+#~ msgid "Your twitter Widget ID."
+#~ msgstr "Votre twitter Widget ID."
+
+#~ msgid "Your twitter user."
+#~ msgstr "Votre mode de twitter."
+
+#~ msgid "enter nymber of tags that will be displayed in widgets."
+#~ msgstr "entrez nymber de balises qui seront affichées dans les widgets."
+
+#~ msgid "in reply to: "
+#~ msgstr "en réponse à: "
+
+#~ msgid "remove"
+#~ msgstr "supprimer"
